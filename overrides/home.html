@@ -1,0 +1,26 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}
+  <style>
+    .md-tabs {
+      color: black;
+      background-color: initial;
+      border-bottom: none !important;
+    }
+  </style>
+  <section class="hero">
+    <img class="hero__image" src="{{ 'assets/imgs/hero1.webp' | url }}" alt="ICPP 2026 hero image" />
+    <div class="hero__overlay">
+      <img class="hero__logo" src="{{ 'assets/logo.png' | url }}" alt="ICPP 2026 logo" />
+      <h1 class="hero__title">55th International Conference on Parallel Processing</h1>
+      <p class="hero__subtitle">Singapore, August 3-7, 2026</p>
+    </div>
+  </section>
+{% endblock %}
+
+{% block content %}
+  
+{% endblock %}
+
+{% block footer %}{% endblock %}

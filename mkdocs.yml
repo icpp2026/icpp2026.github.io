@@ -1,0 +1,63 @@
+site_name: ICPP '26
+site_url: https://icpp2026.github.io/
+theme:
+  name: material
+  language: en
+  logo: assets/logo.png
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    # - navigation.footer
+    - navigation.prune
+    - navigation.indexes
+    - navigation.tabs.sticky
+    - toc.integrate
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - search.suggest
+  palette: 
+    primary: white
+  
+extra_css:
+  - assets/stylesheets/extra.css
+copyright: Copyright &copy; 2026 International Conference on Parallel Processing.
+# hide the generator information in the footer
+extra:
+  generator: false
+nav:
+  - Home: home.md
+  - Committees:
+    - Organizing Committee: organizing-committee.md
+    - Technical Committee: technical-committee.md
+    - Reprodicibility Committee: reproducibility-committee.md
+  - Submissions:
+    - Call for Papers: call-for-papers.md
+    - Call for Posters: call-for-proposals.md
+    - Call for Workshops: call-for-workshops.md
+    - Call for Student Forums: call-for-student-forums.md
+  - Program:
+    - Schedule: schedule.md
+    - Panels: panels.md
+    - Tutorials: tutorials.md
+  - Workshops: workshops.md
+  - Keynotes: keynote-speakers.md
+  - Attending:
+    - Lodging and Travel: lodging-and-travel.md
+    - Student Travel Awards: student-travel-awards.md
+    - Venue: venue.md
+    - Visa: visa.md
+  - Sponsors: sponsors.md
+  - Previous ICPPs: previous-icpps.md
+plugins:
+  - search
+
+# to open link in a new tab
+markdown_extensions:
+  - attr_list
+  
+# 54th International Conference on Parallel Processing
