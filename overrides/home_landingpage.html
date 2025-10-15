@@ -19,4 +19,11 @@
   </section>
 {% endblock %}
 
-{% block footer %}{% endblock %}
+{% block content %}
+  {{ super() }}
+  {% include "partials/sponsors.html" %}
+{% endblock %}
+
+{% block footer %}
+  {{ super() }}
+{% endblock %}

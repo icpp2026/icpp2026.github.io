@@ -14,7 +14,7 @@ theme:
     - navigation.prune
     - navigation.indexes
     - navigation.tabs.sticky
-    - toc.integrate
+    # - toc.integrate
     - navigation.top
     - navigation.instant
     - navigation.instant.prefetch
@@ -30,7 +30,7 @@ copyright: Copyright &copy; 2026 International Conference on Parallel Processing
 extra:
   generator: false
 nav:
-  - Home: home.md
+  - Home: index.md
   - Committees:
     - Organizing Committee: organizing-committee.md
     - Technical Committee: technical-committee.md
@@ -47,10 +47,12 @@ nav:
   - Workshops: workshops.md
   - Keynotes: keynote-speakers.md
   - Attending:
-    - Lodging and Travel: lodging-and-travel.md
+    - Lodging: lodging.md
+    - Travel: travel.md
     - Student Travel Awards: student-travel-awards.md
     - Venue: venue.md
     - Visa: visa.md
+    - Social Special Events: social-special-events.md
   - Sponsors: sponsors.md
   - Previous ICPPs: previous-icpps.md
 plugins:

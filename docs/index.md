@@ -1,27 +1,66 @@
 ---
-# template: home.html
-title: Home
-social:
-  cards_layout_options:
-    title: Documentation that simply works
+template: home_landingpage.html
+hide:
+  - title
+  - navigation
+  - toc
 ---
 
-Welcome to Material for MkDocs.
+<!-- <div class="grid" markdown> -->
+<div markdown>
+<h2>ICPP '26</h2>
+### The International Conference on Parallel Processing (ICPP) is one of the oldest continuously running computer science conferences in parallel computing in the world. It is a premier forum for researchers, scientists, and practitioners in academia, industry, and government to present their latest research findings in all aspects of the field.
+</div>
 
-# Welcome to MkDocs
+<div markdown>
+<h2>Important Dates</h2>
+- Paper Submission: Apr. 15th, 2026 Apr. 29th, 2026
+- Author Notiﬁcation: June 10th, 2026
+- Camera-ready Deadline: July 10th, 2026
+- Poster submission: June 30th, 2026
+- Poster Author notification: July 28, 2026
+- Early registration deadline: August 10, 2026
+- Student Travel Grant Deadline: August 15, 2026
+- Conference: August 3rd - August 7th, 2026
+</div>
+<!-- </div> -->
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Main Tracks
+<div class="grid cards" markdown>
 
-## Commands
+- **Algorithms**
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+    ---
 
-## Project layout
+    abc
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- **Applications**
+
+    ---
+
+    abc
+
+- **Architecture**
+
+    ---
+
+    abc
+
+- **Multidisciplinary**
+
+    ---
+
+    abc
+
+- **Performance**
+
+    ---
+
+    abc
+
+- **Software**
+
+    ---
+
+    abc
+</div>
