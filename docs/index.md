@@ -13,15 +13,20 @@ hide:
 </div>
 
 <div markdown>
-<h2>Important Dates</h2>
-- Paper Submission: Apr. 15th, 2026 Apr. 29th, 2026
-- Author Notiﬁcation: June 10th, 2026
-- Camera-ready Deadline: July 10th, 2026
+<h2>Important Dates (AoE)</h2>
+
+| Event | Date |
+|-------|------|
+| Paper Submission | April 17<sup>th</sup>, 2026 |
+| Author Notiﬁcation | June 8<sup>th</sup>, 2026 |
+| Camera-ready Deadline | July 1<sup>st</sup>, 2026 |
+| Conference | August 3<sup>rd</sup> - August 7<sup>th</sup>, 2026 |
+
+<!-- 
 - Poster submission: June 30th, 2026
-- Poster Author notification: July 28, 2026
-- Early registration deadline: August 10, 2026
-- Student Travel Grant Deadline: August 15, 2026
-- Conference: August 3rd - August 7th, 2026
+- Poster Author notification: July 28th, 2026
+- Early registration deadline: August 10th, 2026
+- Student Travel Grant Deadline: August 15th, 2026 -->
 </div>
 <!-- </div> -->
 
