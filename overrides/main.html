@@ -1,9 +1,24 @@
 {% extends "base.html" %}
-{% block extrahead %}
-  <link rel="stylesheet" href="{{ 'assets/stylesheets/custom.a2a27114.min.css' | url }}">
-{% endblock %}
 
-{% block scripts %}
+{% block tabs %}
   {{ super() }}
-  <script src="{{ 'assets/javascripts/custom.95054b18.min.js' | url }}"></script>
+  <style>
+    .md-tabs {
+      color: black;
+      background-color: initial;
+      border-bottom: none !important;
+    }
+  </style>
+  <section class="hero__small">
+    <img class="hero__image__small" src="{{ 'assets/imgs/hero1.webp' | url }}" alt="ICPP 2026 hero image" />
+    <div class="hero__overlay__small">
+        {% if page.meta and page.meta.title %}
+            <p class="hero__title__small">{{ page.meta.title }}</p>
+        {% elif page.title and not page.is_homepage %}
+            <p class="hero__title__small">{{ page.title | striptags }}</p>
+        {% else %}
+            <p class="hero__title__small">{{ config.site_name }}</p>
+        {% endif %}
+    </div>
+  </section>
 {% endblock %}
