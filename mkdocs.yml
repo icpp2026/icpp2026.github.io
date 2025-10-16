@@ -1,5 +1,6 @@
 site_name: ICPP '26
 site_url: https://icpp2026.github.io/
+remote_branch: main
 theme:
   name: material
   language: en
@@ -20,9 +21,9 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - search.suggest
-  palette: 
+  palette:
     primary: white
-  
+
 extra_css:
   - assets/stylesheets/extra.css
 copyright: Copyright &copy; 2026 International Conference on Parallel Processing.
@@ -62,5 +63,5 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
-  
+
 # 54th International Conference on Parallel Processing

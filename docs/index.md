@@ -17,12 +17,12 @@ hide:
 
 | Event | Date |
 |-------|------|
-| Paper Submission | April 17<sup>th</sup>, 2026 |
-| Author Notiﬁcation | June 8<sup>th</sup>, 2026 |
-| Camera-ready Deadline | July 1<sup>st</sup>, 2026 |
-| Conference | August 3<sup>rd</sup> - August 7<sup>th</sup>, 2026 |
+| Paper Submission | TBD, 2026 |
+| Author Notiﬁcation | TBD, 2026 |
+| Camera-ready Deadline | TBD, 2026 |
+| Conference | TBD 2026 |
 
-<!-- 
+<!--
 - Poster submission: June 30th, 2026
 - Poster Author notification: July 28th, 2026
 - Early registration deadline: August 10th, 2026
@@ -30,7 +30,7 @@ hide:
 </div>
 <!-- </div> -->
 
-## Main Tracks
+<!-- ## Main Tracks
 <div class="grid cards" markdown>
 
 - **Algorithms**
@@ -68,4 +68,4 @@ hide:
     ---
 
     abc
-</div>
+</div> -->
