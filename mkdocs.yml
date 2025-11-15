@@ -1,5 +1,7 @@
 site_name: ICPP '26
 site_url: https://icpp2026.github.io/
+site_description: The 55th International Conference on Parallel Processing (ICPP 2026) - A premier forum for researchers, scientists, and practitioners in parallel computing. Singapore, 2026.
+site_author: ICPP 2026 Organizing Committee
 remote_branch: main
 theme:
   name: material
