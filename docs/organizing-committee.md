@@ -9,7 +9,7 @@
 ## Program Co-Chairs
 
 - [Xueyan Tang](https://personal.ntu.edu.sg/asxytang/){:target="\_blank"}, Nanyang Technological University, Singapore
-- [Amelie Chi Zhou](https://ameliechi.github.io/){:target="\_blank"}, Hong Kong Baptist University, China
+- [Amelie Chi Zhou](https://amelieczhou.github.io/){:target="\_blank"}, Hong Kong Baptist University, China
 - [Suren Byna](https://sbyna.github.io/){:target="\_blank"}, Ohio State University, USA
 
 ## Workshop Chairs
