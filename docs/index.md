@@ -17,10 +17,11 @@ hide:
 
 | Event | Date |
 |-------|------|
-| Paper Submission | TBD, 2026 |
-| Author Notiﬁcation | TBD, 2026 |
-| Camera-ready Deadline | TBD, 2026 |
-| Conference | TBD 2026 |
+| Abstract Submission | April 24, 2026 |
+| Paper Submission | May 1, 2026 |
+| Author Notiﬁcation | June 30, 2026 |
+| Camera-ready Deadline | July 30, 2026 |
+| Conference | September 28 – October 1, 2026 |
 
 <!--
 - Poster submission: June 30th, 2026
