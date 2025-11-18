@@ -8,7 +8,7 @@ hide:
 
 <!-- <div class="grid" markdown> -->
 <div markdown>
-<h2>ICPP '26</h2>
+<h2 class="landingpage-heading">ICPP '26</h2>
 ### The International Conference on Parallel Processing (ICPP) is one of the oldest continuously running computer science conferences in parallel computing in the world. It is a premier forum for researchers, scientists, and practitioners in academia, industry, and government to present their latest research findings in all aspects of the field.
 </div>
 

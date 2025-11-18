@@ -15,7 +15,7 @@
   overflow: hidden;
   /* pull hero up so it sits behind the sticky navbar/tabs */
   margin-top: -7rem;
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
 }
 
 .hero__small {
@@ -110,6 +110,10 @@
   font-size: clamp(1rem, 2.25vw, 1.375rem);
   opacity: 0.95;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.55);
+}
+
+.landingpage-heading {
+  margin-top: 0rem !important;
 }
 
 .hero__logo {
