@@ -62,11 +62,13 @@
 - Chen Wang, Nanyang Technological University, Singapore
 - Chen Cheng, ByteDance, Singapore
 
-<!-- ## Finance Chair
+## Finance Chair
 
-## Local Arrangements Chairs
+- He Jiong, National University of Singapore, Singapore
 
-## Proceeding Chair -->
+## Proceeding Chair
+
+- TA Nguyen Binh Duong, Singapore Management University, Singapore
 
 ## Web & Publicity Chair
 
