@@ -16,6 +16,8 @@
   /* pull hero up so it sits behind the sticky navbar/tabs */
   margin-top: -7rem;
   /* margin-bottom: 2rem; */
+  /* ensure hero doesn't overlap mobile sidebar/drawer */
+  z-index: 0;
 }
 
 .hero__small {
