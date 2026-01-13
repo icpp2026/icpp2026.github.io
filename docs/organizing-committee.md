@@ -12,16 +12,61 @@
 - [Amelie Chi Zhou](https://amelieczhou.github.io/){:target="\_blank"}, Hong Kong Baptist University, China
 - [Suren Byna](https://sbyna.github.io/){:target="\_blank"}, Ohio State University, USA
 
+## Track Chairs
+
+### Algorithms
+- Olivier Beaumont, INRIA, France
+- Giulia Guidi, Cornell University, USA
+
+### Applications
+- Radu Prodan, University of Innsbruck, Austria
+- Nishant Saurabh, University of Utrecht, Netherlands
+
+### Architecture
+- Ivy Peng, KTH Royal Institute of Technology, Sweden
+- Antonio Tumeo, Pacific Northwest National Laboratory, USA
+
+### Multidisciplinary
+- Ariful Azad, Texas A&M University, USA
+- Helen Xu, Georgia Tech, USA
+
+### Performance
+- Jidong Zhai, Tsinghua University, China
+- Shadi Ibrahim, INRIA, France
+
+### Software
+- Rajeev Thakur, Argonne National Laboratory, USA
+- Tanzima Islam, Texas State University, USA
+
+### Quantum Computing
+- Qiang Guan, Kent State University, USA
+- Bo Fang, University of Texas at Arlington, USA
+
 ## Workshop Chairs
 
-## Poster & Student Program Chairs
+- Quan Chen, Shanghai Jiao Tong University, China
+- Jay Lofstead, Sandia National Laboratories, USA
 
-## Finance Chair
+## Poster Chairs
 
+- Qinbin Li, Huazhong University of Science and Technology, China
+- Matthieu Dorier, Argonne National Laboratory, USA
+
+## Demo Chairs
+
+- Yao Chen, National University of Singapore, Singapore
+- Jean Luca Bez, Lawrence Berkeley National Laboratory, USA
+
+## Tutorial Chairs
+
+- Chen Wang, Nanyang Technological University, Singapore
+- Chen Cheng, ByteDance, Singapore
+
+<!-- ## Finance Chair
 
 ## Local Arrangements Chairs
 
-## Proceeding Chair
+## Proceeding Chair -->
 
 ## Web & Publicity Chair
 
