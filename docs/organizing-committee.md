@@ -70,13 +70,13 @@
 
 - TA Nguyen Binh Duong, Singapore Management University, Singapore
 
-## Web Chairs
-
-- [Weihao Cui](https://raphael-hao.top/){:target="\_blank"}, Shanghai Jiao Tong University, China
-- [Junyi Hou](https://profile.junyi.dev/){:target="\_blank"}, National University of Singapore
-
 ## Publicity Chairs
 
 - Tan Rui, Nanyang Technological University, Singapore
 - Jidong Zhai, Tsinghua University, China
 - Ayesha Afzal, Erlangen National High Performance Computing Center (NHR@FAU), Germany
+
+## Web Chairs
+
+- [Weihao Cui](https://raphael-hao.top/){:target="\_blank"}, Shanghai Jiao Tong University, China
+- [Junyi Hou](https://profile.junyi.dev/){:target="\_blank"}, National University of Singapore
