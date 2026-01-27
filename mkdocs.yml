@@ -41,9 +41,10 @@ nav:
     - Reproducibility Committee: reproducibility-committee.md
   - Submissions:
     - Call for Papers: call-for-papers.md
-    - Call for Posters: call-for-posters.md
     - Call for Workshops: call-for-workshops.md
-    - Call for Student Forums: call-for-student-forums.md
+    - Call for Posters: call-for-posters.md
+    - Call for Demos: call-for-demos.md
+    - Call for Tutorials: call-for-tutorials.md
   - Program:
     - Schedule: schedule.md
     - Panels: panels.md
