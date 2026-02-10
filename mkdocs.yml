@@ -62,6 +62,12 @@ nav:
   - Previous ICPPs: previous-icpps.md
 plugins:
   - search
+  - git-revision-date-localized:
+      type: custom
+      custom_format: "%B %d, %Y"
+      timezone: Asia/Singapore
+      locale: en
+      fallback_to_build_date: true
 
 # to open link in a new tab
 markdown_extensions:
