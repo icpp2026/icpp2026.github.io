@@ -1,6 +1,6 @@
 ## Lodging
 
-The conference recommends the following hotels due to location, international reputation, and familiarity:
+The conference recommends the following hotels due to location, international reputation, and familiarity. **Rates below are estimates only and are not guaranteed**; please confirm with each property at booking.
 
 - [**Park Avenue Rochester**](https://parkavenuegroup.com/property/singapore-rochester-parkavenue/){:target="_blank"}
   
