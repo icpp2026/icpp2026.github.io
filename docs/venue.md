@@ -45,6 +45,7 @@
           font-weight: 500;
           margin-top: 0.5rem;
         "
+        target="_blank"
         >Visit</a
       >
     </div>
