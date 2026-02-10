@@ -38,7 +38,7 @@ All gold sponsors receive one complimentary registration for the conference tech
 
 All gold sponsors are given the opportunity to reserve a poster panel to be displayed at the poster session on Tuesday evening.
 
-### Silver ($1,000 – $2,999)
+### Silver ($1,000 - $2,999)
 Silver sponsors will be named as a sponsor of a day’s morning and afternoon breaks, or a workshop breakfast, and identified as such through public advertisement at the event.
 
 All silver sponsors will be listed (by logo) at the bottom of a list of sponsors that will be shown on the conference web site, the conference program, the conference bag, and a poster at the conference registration area.
@@ -47,5 +47,5 @@ All silver sponsors receive one complimentary registration for the conference te
 
 All silver sponsors are given the opportunity to reserve a poster panel to be displayed at the poster session on Tuesday evening.
 
-### Bronze ($500 – $999)
+### Bronze ($500 - $999)
 All bronze sponsors will be listed (by logo) at the bottom of a list of sponsors that will be shown on the conference website, the conference program, the conference bag, and a poster at the conference registration area.

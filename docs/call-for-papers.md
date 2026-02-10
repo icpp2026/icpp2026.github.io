@@ -36,7 +36,7 @@ All accepted papers that are presented at the conference will be published in th
 - Paper Submission: May 1, 2026
 - Author Notiﬁcation: June 30, 2026
 - Camera-ready Paper Submission: July 30, 2026
-- Conference: September 28 – October 1, 2026
+- Conference: September 28 - October 1, 2026
 
 ### Please Note
 

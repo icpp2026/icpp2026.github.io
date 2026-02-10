@@ -21,7 +21,7 @@ hide:
 | Paper Submission | May 1, 2026 |
 | Author Notiﬁcation | June 30, 2026 |
 | Camera-ready Deadline | July 30, 2026 |
-| Conference | September 28 – October 1, 2026 |
+| Conference | September 28 - October 1, 2026 |
 
 <!--
 - Poster submission: June 30th, 2026
