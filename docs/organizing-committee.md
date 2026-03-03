@@ -54,7 +54,7 @@
 
 ## Demo Chairs
 
-- Yao Chen, National University of Singapore, Singapore
+- Yao Chen, Huazhong University of Science and Technology, China
 - Jean Luca Bez, Lawrence Berkeley National Laboratory, USA
 
 ## Tutorial Chairs

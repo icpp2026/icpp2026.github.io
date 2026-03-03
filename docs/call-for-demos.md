@@ -43,12 +43,12 @@ If accepted, authors will be required to present their demo live at the conferen
 
 ### Demo Chairs
 
-- **Yao CHEN**, NUS
+- **Yao CHEN**, Huazhong University of Science and Technology
 - **Jean Luca Bez**, Lawrence Berkeley National Laboratory
 
 ### Contact
 
 For questions regarding the demonstration track, please contact:
 
-- [yaochen@nus.edu.sg](mailto:yaochen@nus.edu.sg)
+- [chenyao_cs@hust.edu.cn](mailto:chenyao_cs@hust.edu.cn)
 - [jlbez@lbl.gov](mailto:jlbez@lbl.gov)
