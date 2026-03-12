@@ -1,6 +1,6 @@
 # Call for Workshops
 
-**Date:** 28 September - 1 October 2026
+**Date:** September 28 - October 1, 2026
 
 **Location:** Singapore
 

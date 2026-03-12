@@ -2,7 +2,7 @@
 
 ICPP, the International Conference on Parallel Processing, provides a forum for researchers, scientists, and practitioners in academia, industry, and government to present their latest research findings in all aspects of parallel and distributed computing. ICPP is one of the oldest continuously running international computer science conferences. ICPP 2026 is the 55th edition of ICPP.
 
-ICPP 2026 will be held in Singapore from **28 September to 1 October, 2026**. ICPP 2026 is a premier venue for presenting the latest research on all aspects of the field. ICPP 2026 will be organized around seven tracks which includes Algorithms, Applications, Architecture, Multidisciplinary, Performance, Software, and Quantum Computing. Topics of interest in ICPP 2026 papers include, but are not limited to:
+ICPP 2026 will be held in Singapore from **September 28 - October 1, 2026**. ICPP 2026 is a premier venue for presenting the latest research on all aspects of the field. ICPP 2026 will be organized around seven tracks which includes Algorithms, Applications, Architecture, Multidisciplinary, Performance, Software, and Quantum Computing. Topics of interest in ICPP 2026 papers include, but are not limited to:
 
 1. **Algorithms:** Parallel and Distributed Algorithms, Parallel and Distributed Combinatorial & Numerical Methods, Scheduling Algorithms for Parallel and Distributed Applications and Platforms, Algorithmic Innovations for Parallel and Distributed Machine Learning.
 
@@ -30,7 +30,7 @@ The review process is **double-anonymous**, so submissions should **not** reveal
 
 All accepted papers that are presented at the conference will be published in the ACM Digital Library. Accepted papers will also need to follow the conference registration policy to be included in the conference proceedings. We will oﬀer rejected papers an opportunity to be forwarded to workshop organizers to be considered in one of the workshops if the authors choose to do so.
 
-### Important Deadlines (AOE)
+### Important Deadlines (AoE)
 
 - Abstract Submission: April 24, 2026
 - Paper Submission: May 1, 2026

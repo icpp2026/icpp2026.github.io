@@ -23,11 +23,6 @@ hide:
 | Camera-ready Deadline | July 30, 2026 |
 | Conference | September 28 - October 1, 2026 |
 
-<!--
-- Poster submission: June 30th, 2026
-- Poster Author notification: July 28th, 2026
-- Early registration deadline: August 10th, 2026
-- Student Travel Grant Deadline: August 15th, 2026 -->
 </div>
 <!-- </div> -->
 

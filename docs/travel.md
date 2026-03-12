@@ -1,6 +1,6 @@
 ## Air Travel
 
-There are only one way to fly to Singapore:
+There is only one way to fly to Singapore:
 
 - Changi Airport (`SIN`)
 
