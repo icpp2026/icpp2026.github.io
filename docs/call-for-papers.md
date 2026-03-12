@@ -52,7 +52,7 @@ All accepted papers that are presented at the conference will be published in th
 
 6. The conference proceedings will be finalized after the conference based on the papers presented.
 
-7. A registration fee is required for all accepted papers, regardless of attendance.
+7. For each accepted paper, at least one full registration is required. This applies on a per-paper basis: for example, two papers require two separate full registrations, even if they share the same authors.
 
 ### Contact
 
