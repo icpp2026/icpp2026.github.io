@@ -12,6 +12,17 @@ ICPP 2026 invites poster submissions presenting early-stage research, novel idea
 * **Submission type:** 1\) an Extended Abstract and 2\) a Poster Draft. The extended abstract will be included in the Workshop proceedings if accepted.  
 * **Requirement:** The poster abstract **should not exceed 2 pages (including references)** and all submissions must be made electronically through the conference submission portal ([https://ssl.linklings.net/conferences/icpp](https://ssl.linklings.net/conferences/icpp){:target="_blank"}) in PDF format printable on US letter size (8.5″ x 11″) paper. Please use the ACM format located at: [https://www.acm.org/publications/proceedings-template.](https://www.acm.org/publications/proceedings-template.){:target="_blank"} We recommend using \\documentclass\[sigconf,review\]{acmart} conﬁguration for submissions prepared in LaTeX. Changes to the template (e.g., margin, font size) could lead to automatic rejection. Submissions should represent original research results and cannot already be under review or accepted for publication/presentation in another venue.
 
+### Important Note to Authors About ACM's New Open Access Publishing Model
+
+ACM has introduced a new open access publishing model for the International Conference Proceedings Series (ICPS). Authors based at institutions that are not yet part of the ACM Open program and do not qualify for a full geographic waiver will be required to pay an article processing charge (APC) to publish their ICPS article in the ACM Digital Library. To determine whether or not an APC will be applicable to your article, please follow the detailed guidance [here](https://www.acm.org/publications/icps/author-guidance){:target="_blank"}.
+
+Further information may be found on the ACM website, as follows:
+
+- Full details of the new ICPS publishing model: [https://www.acm.org/publications/icps/faq](https://www.acm.org/publications/icps/faq){:target="_blank"}
+- Full details of the ACM Open program: [https://www.acm.org/publications/openaccess](https://www.acm.org/publications/openaccess){:target="_blank"}
+
+Please direct all questions about the new model to [icps-info@acm.org](mailto:icps-info@acm.org).
+
 ### Topics of Interest
 
 Posters are welcome on (but not limited to) the following areas:

@@ -30,6 +30,17 @@ The review process is **double-anonymous**, so submissions should **not** reveal
 
 All accepted papers that are presented at the conference will be published in the ACM Digital Library. Accepted papers will also need to follow the conference registration policy to be included in the conference proceedings. We will oﬀer rejected papers an opportunity to be forwarded to workshop organizers to be considered in one of the workshops if the authors choose to do so.
 
+### Important Note to Authors About ACM's New Open Access Publishing Model
+
+ACM has introduced a new open access publishing model for the International Conference Proceedings Series (ICPS). Authors based at institutions that are not yet part of the ACM Open program and do not qualify for a full geographic waiver will be required to pay an article processing charge (APC) to publish their ICPS article in the ACM Digital Library. To determine whether or not an APC will be applicable to your article, please follow the detailed guidance [here](https://www.acm.org/publications/icps/author-guidance){:target="_blank"}.
+
+Further information may be found on the ACM website, as follows:
+
+- Full details of the new ICPS publishing model: [https://www.acm.org/publications/icps/faq](https://www.acm.org/publications/icps/faq){:target="_blank"}
+- Full details of the ACM Open program: [https://www.acm.org/publications/openaccess](https://www.acm.org/publications/openaccess){:target="_blank"}
+
+Please direct all questions about the new model to [icps-info@acm.org](mailto:icps-info@acm.org).
+
 ### Important Deadlines (AoE)
 
 - Abstract Submission: April 24, 2026
