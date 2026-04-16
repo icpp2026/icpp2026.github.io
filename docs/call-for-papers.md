@@ -43,7 +43,8 @@ Please direct all questions about the new model to [icps-info@acm.org](mailto:ic
 
 ### Important Deadlines (AoE)
 
-- Abstract Submission: April 24, 2026
+- Abstract Submission: April 24, 2026 <br/>
+   (To register an abstract, you may complete the paper submission form without uploading the full paper, and save the form by clicking on Save as Draft.)
 - Paper Submission: May 1, 2026
 - Author Notiﬁcation: June 30, 2026
 - Camera-ready Paper Submission: July 30, 2026
