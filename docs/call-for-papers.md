@@ -28,6 +28,13 @@ Paper submissions **should not exceed 10 pages (including references)** and all 
 
 The review process is **double-anonymous**, so submissions should **not** reveal the identity of the authors. Authors should leave out author names, aﬃliations, and (any) acknowledgment from the body of their submission. They should also ensure that any references to authors’ own related work should be in the **third person** (e.g., not “We build on our previous work …” but rather “We build on the work of …”). The purpose of this process is to help the Program Committee and external reviewers come to a judgment about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Authors with further questions about double-anonymous reviewing are encouraged to contact the Program Chairs by email.
 
+All authors must register conflicts in the submission system ([Linklings](https://ssl.linklings.net/conferences/icpp/){:target="_blank"}). A conflict of interest includes:
+
+- Academic advisor/advisee (no time limit)
+- Collaborators within the past 3 years
+- Same institutional affiliation within the past 3 years
+- Family member or close friend
+
 All accepted papers that are presented at the conference will be published in the ACM Digital Library. Accepted papers will also need to follow the conference registration policy to be included in the conference proceedings. We will oﬀer rejected papers an opportunity to be forwarded to workshop organizers to be considered in one of the workshops if the authors choose to do so.
 
 ### Important Note to Authors About ACM's New Open Access Publishing Model
