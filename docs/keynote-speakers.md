@@ -18,4 +18,21 @@
 
 ----
 
+## **Efficient LLM Serving via Compression-Centric Optimizations**
+
+<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 1rem;">
+    <img src="../assets/imgs/xiaowen-chu.png" alt="Dr. Xiaowen Chu" style="width: 150px; border-radius: 8px;">
+    <div style="flex: 1;">
+        <h3 style="margin: 0;"><strong>Xiaowen Chu</strong></h3>
+        <p style="margin: 0.5rem 0 0 0;">The Hong Kong University of Science and Technology (Guangzhou)<br>Guangzhou, China</p>
+    </div>
+</div>
+
+**Abstract:** Large language model (LLM) serving is fundamentally constrained by GPU memory capacity and bandwidth. While model compression can alleviate these constraints, practical system-level speedups are frequently hindered by the computational overhead of decoding and data movement. This talk explores a compression-centric paradigm for efficient LLM serving, highlighting two synergistic systems: SpInfer and ZipServ. We demonstrate how hardware-aware format co-design bridges the gap between theoretical compression and practical acceleration. First, SpInfer optimizes sparsified LLM serving by redesigning sparse data structures to minimize indexing overhead, unlocking the efficiency of unstructured sparsity on GPUs. Second, ZipServ extends this philosophy to bit-exact inference via lossless compression, enabling on-the-fly decoding that strictly aligns with Tensor Core execution to eliminate redundant memory traffic. Ultimately, this talk illustrates that by co-designing compression formats and execution pipelines with GPU architectures, compression transitions from a mere storage-saving technique into a core systems-level optimization principle that simultaneously minimizes memory footprint and accelerates LLM inference.
+
+**Bio:** Dr. **Xiaowen Chu** is a Full Professor and Acting Head of the Artificial Intelligence Thrust at The Hong Kong University of Science and Technology (Guangzhou). He has been the Acting Head and Head of Data Science and Analytics Thrust at HKUST(GZ) during 2023–2025. He received his Bachelor's degree from Tsinghua University and his Ph.D. from The Hong Kong University of Science and Technology. His research focuses on high-performance computing, machine learning systems, and distributed systems. He has received seven Best Paper Awards at international conferences, including EuroSys 2025 and INFOCOM 2021, and Distinguished Paper Award of ICDCS 2025. Dr. Chu has been recognized multiple times in the Stanford University World's Top 2% Scientists List. He serves (or has served) as an Associate Editor or Guest Editor for IEEE Transactions on Cloud Computing, IEEE Transactions on Network Science and Engineering, IEEE Internet of Things Journal, IEEE Transactions on Big Data, IEEE Network, and IEEE Transactions on Industrial Informatics. He has served as an area chair for NeurIPS, ICML, and ICLR. He was the TPC Co-Chair or General Co-Chair of IEEE MetaCom 2025, IEEE/ACM IWQoS 2024, BigCom 2023, IEEE GreenCom 2022, IEEE HPCC 2021, IEEE DSS 2020, EAI QShine 2019, etc. He is a Fellow of IEEE and AAIA.
+
+<div style="clear: both;"></div>
+
+----
 
