@@ -8,6 +8,8 @@ ICPP 2026 will host co-located workshops. Details for each workshop, including c
 
 **[State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC / NVSUG)](https://nvsug.github.io/spin-nvsc/){:target="_blank"}**
 
+**[Benchmarking in the Data Center (BID)](https://parallel.computer/){:target="_blank"}**
+
 !!! note
 
     Additional workshops will be listed here as they are announced. For information on proposing a workshop, see the [Call for Workshops](call-for-workshops.md).
