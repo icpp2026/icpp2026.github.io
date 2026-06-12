@@ -64,7 +64,7 @@
 
 ## Finance Chair
 
-- He Jiong, National University of Singapore, Singapore
+- [He Jiong](https://hejiong.me/){:target="\_blank"}, National University of Singapore, Singapore
 
 ## Proceeding Chair
 
