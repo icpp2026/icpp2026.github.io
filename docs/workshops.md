@@ -10,6 +10,8 @@ ICPP 2026 will host co-located workshops. Details for each workshop, including c
 
 **[Benchmarking in the Data Center (BID)](https://parallel.computer/){:target="_blank"}**
 
+**[Sustainable Computing for High-Performance and Distributed Systems (SUSTAIN-HPC)](https://icpp2026.github.io/sustain-hpc-2026/){:target="_blank"}**
+
 !!! note
 
     Additional workshops will be listed here as they are announced. For information on proposing a workshop, see the [Call for Workshops](call-for-workshops.md).
