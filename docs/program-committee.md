@@ -1,0 +1,322 @@
+# Program Committee
+
+## Algorithms
+
+- Sameh Abdulah, King Abdullah University of Science and Technology (KAUST), Saudi Arabia
+- Gagan Agrawal, University of Georgia, USA
+- Akhlaque Ahmad, Indiana University Bloomington, USA
+- Marco Aldinucci, University of Torino, Italy; CINI HPC-KTT Laboratory, Italy
+- Shaikh Arifuzzaman, University of Nevada, Las Vegas, USA
+- Dip Sankar Banerjee, Indian Institute of Technology Jodhpur, India
+- Anne Benoit, ENS Lyon, France
+- Cristiana Bentes, Rio de Janeiro State University (UERJ), Brazil
+- Sanjukta Bhowmick, University of North Texas, USA
+- Gianfranco Bilardi, University of Padova, Italy
+- Filip Blagojevic, Western Digital Research, USA
+- Erik Boman, Sandia National Laboratories, USA
+- Costas Busch, Augusta University, USA
+- Michele Carminati, Politecnico di Milano, Italy
+- Erin Carson, Charles University, Czech Republic
+- Ghanshyam Chandra, Intel Corporation, India
+- Jieyang Chen, University of Oregon, USA
+- Kazem Cheshmi, McMaster University, Ontario, Canada
+- Jee Choi, University of Oregon, USA
+- Jerry Chou, National Tsing Hua University, Taiwan
+- Daniel Cordeiro, University of São Paulo, Brazil
+- Camille Coti, École de Technologie Supérieure, Canada
+- Pasqua D'Ambra, Istitute for Applied Computing, National Research Council (IAC-CNR), Italy
+- Daniele De Sensi, Sapienza University of Rome, Italy
+- Aditya Devarakonda, Wake Forest University, USA
+- Grace Dinh, Cornell University, USA
+- Fanny Dufossé, French Institute for Research in Computer Science and Automation (INRIA), France
+- Christian Engelmann, Oak Ridge National Laboratory (ORNL), USA
+- Kaijie Fan, University of Trento, Italy
+- Guimu Guo, Rowan University, USA
+- Koby Hayashi, Pacific Northwest National Laboratory (PNNL), Georgia Institute of Technology, USA
+- Thomas Herault, Inria, France
+- Steven Hofmeyr, Lawrence Berkeley National Laboratory (LBNL), USA
+- Yuxi Hong, Indiana University Bloomington, USA
+- Md Taufique Hussain, Wake Forest University, USA
+- Hans Johansen, Lawrence Berkeley National Laboratory (LBNL), USA
+- Chelsea Maria John, Forschungszentrum Jülich, Jülich Supercomputing Centre (JSC), Germany
+- Pierre Jolivet, CNRS, France
+- Gokberk Kabacaoglu, Durham University, UK
+- Ramakrishnan Kannan, Georgia Institute of Technology, USA
+- Oguz Kaya, Université Paris-Saclay, Laboratoire Interdisciplinaire des Sciences du Numérique (LISN), France
+- Anna Kobusinska, Poznan University of Technology, Poland
+- Kishore Kothapalli, International Institute of Information Technology (IIIT), Hyderabad, India
+- Daniel Kressner, EPFL, Switzerland
+- Sanmukh Kuppannagari, Case Western Reserve University, USA
+- Wan-Luan Lee, Cadence Design Systems, USA
+- Jiajia Li, North Carolina State University, USA
+- Bangtian Liu, Advanced Micro Devices, Inc. (AMD), Canada
+- Quanquan Liu, Yale University, USA
+- Hatem Ltaief, King Abdullah University of Science and Technology (KAUST), Saudi Arabia
+- Piotr Luszczek, Massachusetts Institute of Technology (MIT), Lincoln Laboratory; University of Tennessee, Knoxville, USA
+- Kamesh Madduri, Pennsylvania State University, USA
+- Durga Keerthi Mandarapu, LBNL, USA
+- Loris Marchal, French National Center for Scientific Research (CNRS), ENS Lyon, France
+- Sergio Miguel Martin, Huawei Technologies Switzerland AG, Switzerland
+- Aristeidis Mastoras, University of Ioannina, Greece
+- Marco Minutoli, Advanced Micro Devices, USA
+- Anisur Rahaman Molla, ISI Kolkata, India
+- Kengo Nakajima, The University of Tokyo, RIKEN Center for Computational Science (R-CCS), Japan
+- Eric Phipps, Sandia National Laboratories, USA
+- Vinod Rebello, Universidade Federal Fluminense, Brazil
+- Bin Ren, College of William & Mary, USA
+- Ponnuswamy Sadayappan, University of Utah, Pacific Northwest National Laboratory (PNNL), USA
+- Peter Sanders, Karlsruhe Institute of Technology (KIT), Germany
+- Erik Saule, University of North Carolina at Charlotte, USA
+- Olaf Schenk, Panua Technologies, Università della Svizzera italiana, Switzerland
+- Bertil Schmidt, Johannes Gutenberg University Mainz, Germany
+- Oguz Selvitopi, Lawrence Berkeley National Laboratory (LLNL), USA
+- Gokarna Sharma, Kent State University, USA
+- Francesco Silvestri, University of Padova, Italy
+- Oliver Sinnen, University of Auckland, New Zealand
+- George Slota, Rensselaer Polytechnic Institute, Sandia National Laboratories, USA
+- Kirshanthan Sundararajah, Virginia Tech, USA
+- Claude Tadonki, Mines Paris - PSL, France
+- Dingwen Tao, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences, China
+- Bora Uçar, French National Center for Scientific Research (CNRS); LIP, ENS de Lyon, France
+- Ana Lucia Varbanescu, University of Twente, Netherlands; University of Amsterdam, Netherlands
+- Xinzhe Wu, Jülich Supercomputing Centre (JSC), Germany
+- Minjia Zhang, University of Illinois Urbana-Champaign, USA
+- Max Zhao, Cerebras Systems Inc, USA
+- Keren Zhou, George Mason University (GMU), OpenAI, USA
+
+## Applications
+
+- Metin Aktulga, Michigan State University, USA
+- Attila Cangi, Helmholtz-Zentrum Dresden-Rossendorf, Germany
+- Nitin Auluck, IIT Ropar, India
+- Jorge Barbosa, University of Porto, Portugal; LIACC, Portugal
+- Luiz Bittencourt, University of Campinas, Brazil
+- Daniele Bonetta, VU Amsterdam, Netherlands
+- Long Cheng, North China Electric Power University, China
+- Rezaul Chowdhury, Stony Brook University, USA
+- Denisa-Andreea Constantinescu, EPFL, Switzerland
+- Milinda Fernando, The University of Texas at Austin, USA
+- Sandro Fiore, University of Trento, Italy
+- Philipp Gschwandtner, University of Innsbruck, Austria
+- John A. Gunnels, NVIDIA Corporation, USA
+- Ravi Gupta, AMD Corporation, USA
+- Shashikant Ilager, University of Amsterdam, Netherlands
+- Toshiyuki Imamura, RIKEN, RIKEN Center for Computational Science (R-CCS), Japan
+- Yao Kang, NVIDIA Corporation, USA
+- Hemanth Kolla, Sandia National Laboratories, USA
+- Radita Liem, RWTH Aachen University, Germany
+- Weifeng Liu, China University of Petroleum, Beijing; Super Scientific Software Laboratory, China
+- Teng Ma, Alibaba Group, China
+- Andreas Mang, University of Houston, USA
+- Kewen Meng, Advanced Micro Devices, Inc. (AMD), USA
+- Diana Moise, Hewlett Packard Enterprise (HPE), Switzerland
+- Shirley Moore, University of Texas at El Paso, USA
+- Santiago Núñez-Corrales, University of Illinois Urbana Champaign, National Center for Supercomputing Applications, USA
+- Bo Peng, Shanghai Jiao Tong University, China
+- Suman Raj, University of Chicago, USA
+- Kristian Rietveld, Leiden University, Netherlands
+- Prashanthi S K, Indian Institute of Science, India
+- Alessio Sclocco, Netherlands eScience Center, Netherlands
+- Yogesh Simmhan, Indian Institute of Science, Bangalore, India
+- Daisuke Takahashi, University of Tsukuba, Japan
+- George Teodoro, Federal University of Minas Gerais, Brazil
+- Tobias Weinzierl, Durham University, UK
+- Di Wu, University of St Andrews, UK
+- Wenlai Zhao, Tsinghua University; National Supercomputing Center in Wuxi, China
+
+## Architecture
+
+- Ahmad Afsahi, Queen's University, Canada
+- Alessia Antelmi, University of Turin, Italy
+- Andrea Bartolini, University of Bologna, Italy
+- Nick Brown, University of Edinburgh, Scotland, UK
+- Xing Cai, Simula Research Laboratory; University of Oslo, Norway
+- Suma George Cardwell, Sandia National Laboratories, USA
+- Jesus Carretero, University Carlos III of Madrid, Spain
+- Marc Casas Guix, Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia, Spain
+- Antony Chazapis, Foundation for Research and Technology – Hellas (FORTH), Greece
+- Andreas Diavastos, Cyprus University of Technology, Cyprus
+- Manuel F. Dolz, Universitat Jaume I, Spain
+- David Donofrio, Tactical Computing Laboratories LLC, Lawrence Berkeley National Laboratory (LBNL), USA
+- Bryan Donyanavard, San Diego State University, USA
+- Pascal Jahan Elahi, Pawsey Supercomputing Research Centre, Australia
+- Toshio Endo, Institute of Science Tokyo, Japan
+- Jesús Escudero-Sahuquillo, Universidad de Castilla-La Mancha, Spain
+- Pablo Ezzatti, Universidad de la República, Uruguay
+- Holger Froening, Heidelberg University, Germany
+- Lin Gan, Tsinghua University, Hetao Institute of Mathematics and Interdisciplinary Sciences, China
+- Xin Gao, Barcelona Supercomputing Center, Spain
+- Pedro J. García, Universidad de Castilla-La Mancha, Spain
+- Ryan Grant, Queen's University, Canada; Power API, Canada
+- Andrea Guerrieri, HES-SO and EPFL, Switzerland
+- Diana Göhringer, Technical University Dresden, Germany
+- Toshihiro Hanawa, The University of Tokyo, Japan
+- Aleksandar Ilic, INESC-ID, IST, University of Lisbon, Portugal
+- Ian Karlin, NVIDIA Corporation, USA
+- Sven Karlsson, Technical University of Denmark, Denmark
+- Arjun Kashyap, NVIDIA, USA
+- Youngjae Kim, Sogang University, South Korea
+- Eun Jung Kim, Texas A&M University, USA
+- Joonsung Kim, Sungkyunkwan University, South Korea
+- Benjamin Klenk, Nvidia Corporation, USA
+- Kazuhiko Komatsu, Tohoku University, Japan
+- Ankur Limaye, Pacific Northwest National Laboratory (PNNL), USA
+- Arthur Lorenzon, Federal University of Rio Grande do Sul, Brazil
+- Xiaoyi Lu, University of Florida, USA
+- Doriana Medić, University of Turin, Italy
+- Agustín Navarro-Torres, University of Zaragoza, Spain
+- Gianluca Palermo, DEIB, Politecnico di Milano, Italy
+- Ivy Peng, KTH Royal Institute of Technology, Sweden
+- Lubomir Riha, IT4Innovations National Supercomputing Center; Technical University of Ostrava, Czech Republic
+- Julio Sahuquillo, Polytechnic University of Valencia, Spain
+- Smruti Sarangi, IIT Delhi, India
+- Alessandro Savino, Politecnico di Torino, Italy
+- Catherine Schuman, University of Tennessee, Knoxville, USA
+- S.-Kazem Shekofteh, Heidelberg University, Germany
+- Ryota Shioya, University of Tokyo, Japan
+- Ioannis Sourdis, Chalmers University of Technology, University of Gothenburg, Sweden
+- Hari Subramoni, The Ohio State University, USA
+- Christian Terboven, RWTH Aachen University, Germany
+- Gaurav Verma, Stony Brook University (SBU), USA
+- Gwendolyn Voskuilen, Sandia National Laboratories, USA
+- Josef Weidendorfer, Dresden University of Technology, Germany
+- Bing Xie, Microsoft Corporation, USA
+- Yoshiki Yamaguchi, University of Tsukuba, Kumamoto University, Japan
+- Kazutomo Yoshii, Argonne National Laboratory (ANL), USA
+- Jeffrey Young, Georgia Institute of Technology, USA
+
+## Multidisciplinary
+
+- Giuseppe M. J. Barca, University of Melbourne; Australian National University, Australia
+- Bibrak Qamar Chandio, Amazon Web Services, USA
+- Ke Fan, Temple University, USA
+- Leszek Gąsieniec, University of Liverpool, UK
+- Zhuozhao Li, Southern University of Science and Technology, China
+- Dong Li, University of California, Merced, USA
+- Wentao Ma, Duke University, USA
+- Mohammad Alaul Haque Monil, Oak Ridge National Laboratory (ORNL), USA
+- Raffaele Montella, Parthenope University of Naples, Italy
+- Lena Oden, Juelich Supercomputing Centre, Fernuniversitaet Hagen, Germany
+- Miquel Pericas, Chalmers University of Technology; University of Gothenburg, Sweden
+- Navjot Singh, Lawrence Berkeley National Laboratory, USA
+- Alan Sussman, University of Maryland, USA
+- Dingwen Tao, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences, China
+- Letong Wang, DePaul University, USA
+- Yujia Zhai, NVIDIA Corporation, USA
+
+## Performance
+
+- Farah Ait Salaht, Léonard de Vinci Pôle Universitaire, France
+- Michela Becchi, North Carolina State University, USA
+- Jean Luca Bez, Lawrence Berkeley National Laboratory (LBNL), USA
+- Jalil Boukhobza, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France
+- Ali R. Butt, Virginia Tech, USA
+- Heng Chen, Xi'an Jiaotong University, China
+- Tiago Da Silva Barros, Université Côte d'Azur, Inria, I3S, France
+- Hariharan Devarajan, Lawrence Livermore National Laboratory (LLNL), USA
+- Matthieu Dorier, Argonne National Laboratory (ANL), USA
+- Mingxing Duan, Hunan University, China
+- Hao Fan, Huazhong University of Science and Technology, China
+- Jianbin Fang, National University of Defense Technology, China
+- Xiaoli Gong, Nankai University, China
+- Rong Gu, Nanjing University, China
+- Shadi Ibrahim, French Institute for Research in Computer Science and Automation (INRIA), France
+- Adrian Jackson, University of Edinburgh, Scotland, UK
+- Safdar Jamil, MangoBoost Inc., South Korea
+- Armel Jeatsa Toulepi, INRIA Rennes, France
+- Jinfang Jia, Qinghai University, China
+- Yuyang Jin, Tsinghua University, China
+- Awais Khan, Oak Ridge National Laboratory (ORNL), USA
+- Michael Kuhn, Otto von Guericke University Magdeburg, Germany
+- Thomas Lambert, Université de Lorraine, Loria, France
+- Mingzhen Li, Institute of Computing Technology Chinese Academy of Sciences, University of Chinese Academy of Sciences, China
+- Shigang Li, Beijing University of Posts and Telecommunications, China
+- Xiaqing Li, Beijing Jiaotong University, China
+- Weifeng Liu, China University of Petroleum, Beijing; Super Scientific Software Laboratory, China
+- Jay Lofstead, Sandia National Laboratories, University of New Mexico, USA
+- Huizhang Luo, Hunan University, China
+- Ricardo Macedo, INESC TEC, University of Minho, Portugal
+- Diana Moise, Hewlett Packard Enterprise (HPE), Switzerland
+- Sarah Neuwirth, Johannes Gutenberg University Mainz, Germany
+- Hamza Safri, USC Information Sciences Institute, USA
+- Qingxiao Sun, Beihang University, China
+- Frédéric Suter, Oak Ridge National Laboratory (ORNL), USA
+- Shanjiang Tang, Tianjin University, China
+- Francois Tessier, French Institute for Research in Computer Science and Automation (INRIA), France
+- François Trahay, Telecom SudParis, Inria, France
+- Monica Vitali, Politecnico di Milano, Italy
+- Jue Wang, Computer Network Information Center, Chinese Academy of Sciences; University of Chinese Academy of Sciences, China
+- Wen Xia, Harbin Institute of Technology, China; Peng Cheng Laboratory, Shenzhen, China
+- Pengfei Yang, Xidian University, China
+- Yan Zeng, Hangzhou Dianzi University, China
+- Soraya Zertal, LI-PaRAD Laboratory, University of Versailles, France
+- Jidong Zhai, Tsinghua University, China
+- Feng Zhang, Renmin University of China, China
+- Yu Zhang, Huazhong University of Science and Technology, China
+- Jieru Zhao, Shanghai Jiao Tong University, China
+- Mai Zheng, Iowa State University, USA
+- Youwei Zhuo, Peking University, China
+- Zan Zong, University of Science and Technology Beijing, China
+
+## Software
+
+- Reet Barik, Argonne National Laboratory, USA
+- Amanda J. Bienz, University of New Mexico, USA
+- Patrick Bridges, University of New Mexico, USA
+- Ron Brightwell, Sandia National Laboratories, USA
+- Stephanie Brink, Lawrence Livermore National Laboratory (LLNL), USA
+- Jaime Cernuda, Illinois Institute of Technology, USA
+- Sunita Chandrasekaran, University of Delaware, USA
+- Ram Sharan Chaulagain, Argonne National Laboratory, USA
+- Le Chen, Argonne National Laboratory, Iowa State University, USA
+- Sudheer Chunduri, Google, USA
+- Bronis R. de Supinski, Lawrence Livermore National Laboratory (LLNL), Queens University Belfast (QUB), USA
+- Murali Emani, Argonne National Laboratory (ANL), USA
+- Michele Esposito Marzino, Barcelona Supercomputing Center, Spain
+- Ke Fan, Temple University, USA
+- Sayan Ghosh, Pacific Northwest National Laboratory (PNNL), USA
+- William Godoy, Oak Ridge National Laboratory (ORNL), USA
+- Ryan Grant, Queen's University, Canada; Power API, Canada
+- William D. Gropp, University of Illinois Urbana-Champaign, USA
+- Fei Gui, Zhongguancun Laboratory, China
+- Jiajun Huang, University of South Florida, USA
+- Sascha Hunold, Technical University of Vienna, Austria
+- Sergio Iserte, Barcelona Supercomputing Center (BSC), Spain
+- Ian Karlin, NVIDIA Corporation, USA
+- Swathi Kovvuri, Intel Corporation, USA
+- Sidharth Kumar, University of Illinois Chicago, USA
+- Guanpeng Li, University of Florida, USA
+- Jay Lofstead, Sandia National Laboratories, University of New Mexico, USA
+- Xiaoyi Lu, University of Florida, USA
+- Preeti Malakar, Indian Institute of Technology (IIT), Kanpur, India
+- Tanwi Mallick, Argonne National Laboratory (ANL), USA
+- Avinash Kumar Maurya, Argonne National Laboratory (ANL), Rochester Institute of Technology, USA
+- Bogdan Nicolae, Argonne National Laboratory (ANL), Illinois Institute of Technology, USA
+- Arnab K. Paul, BITS Pilani, K. K. Birla Goa Campus, India
+- Siddhisanket Raskar, Micron Technology, University of Delaware, USA
+- Kento Sato, RIKEN Center for Computational Science (R-CCS), Japan
+- Joseph Schuchart, Stony Brook University, USA
+- Saba Sehrish, Fermi National Accelerator Laboratory, USA
+- Sameer Shende, University of Oregon; ParaTools, Inc., USA
+- Galen Shipman, Los Alamos National Laboratory, USA
+- Tong Shu, University of North Texas, USA
+- Seung Woo Son, University of Massachusetts Lowell, USA
+- Mohamed Wahib, RIKEN Center for Computational Science (R-CCS), Japan
+- Chen Wang, Nanyang Technological University, Singapore; Lawrence Livermore National Laboratory (LLNL), Singapore
+- Michael Wilkins, Cornelis Networks, USA
+- Zhen Xie, State University of New York at Binghamton, USA
+- Xiaodong Yu, Stevens Institute of Technology, Argonne National Laboratory (ANL), USA
+
+## Quantum Computing
+
+- Yuxuan Du, Nanyang Technological University, Singapore
+- Weiwen Jiang, George Mason University, USA
+- Zhiding Liang, The Chinese University of Hong Kong, Hong Kong
+- Ying Mao, Fordham University, USA
+- Samah Mohamed Ahmed Saeed, City College of New York, City University of New York, USA
+- Samuel Stein, Pacific Northwest National Laboratory, USA
+- Yasunari Suzuki, RIKEN, Japan
+- Anbang Wu, Shanghai Jiao Tong University, China
+- Zipeng Wu, SpinQ Technology, China
+- Yang Zhang, Miami University, USA
+- Jiapeng Zhao, Cisco, USA

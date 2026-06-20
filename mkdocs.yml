@@ -37,7 +37,7 @@ nav:
   - Home: index.md
   - Committees:
     - Organizing Committee: organizing-committee.md
-    - Technical Committee: technical-committee.md
+    - Program Committee: program-committee.md
     - Reproducibility Committee: reproducibility-committee.md
   - Call for Submissions:
     - Call for Papers: call-for-papers.md
