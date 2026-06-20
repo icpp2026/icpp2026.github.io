@@ -24,7 +24,7 @@
 
 ### Architecture
 - Ivy Peng, KTH Royal Institute of Technology, Sweden
-- Antonio Tumeo, Pacific Northwest National Laboratory, USA
+- Antonino Tumeo, Pacific Northwest National Laboratory, USA
 
 ### Multidisciplinary
 - Ariful Azad, Texas A&M University, USA
