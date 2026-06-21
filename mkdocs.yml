@@ -51,13 +51,13 @@ nav:
     - Tutorials: tutorials.md
   - Workshops: workshops.md
   - Keynotes: keynote-speakers.md
-  - Registration: registration.md
   - Attending:
+    - Registration: registration.md
     - Venue: venue.md
     - Travel (How to Get There): travel.md
     - Accommodation: accommodation.md
-    - Student Travel Awards: student-travel-awards.md
     - Visa: visa.md
+    - Student Travel Awards: student-travel-awards.md
     - Social Special Events: social-special-events.md
   - Sponsors: sponsors.md
   - Previous ICPPs: previous-icpps.md
