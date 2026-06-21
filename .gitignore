@@ -1,2 +1,8 @@
 site/
 .cursor/
+
+# Private hotel/correspondence files — never publish to this public repo
+*.eml
+
+# Playwright MCP scratch artifacts
+.playwright-mcp/
