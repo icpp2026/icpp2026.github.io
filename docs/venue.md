@@ -31,8 +31,8 @@
     >
       <h2 style="margin: 0 0 0.25rem; font-weight: 700">Conference Venue</h2>
       <p style="margin: 0 0.5rem 0.5rem; line-height: 1.35">
-        NTU@One North, Singapore<br />
-        11 Slim Barracks Rise Singapore 138664
+        NTU@one-north, Singapore<br />
+        11 Slim Barracks Rise, Singapore 138664
       </p>
       <a
         href="https://www.ntu.edu.sg/life-at-ntu/leisure-and-dining/ntu@one-north"
@@ -52,12 +52,10 @@
   </div>
 </div>
 
-**Free WiFi** will be provided (see document “Wifi Service” for more information)
+ICPP 2026 will be held at **NTU@one-north**, Nanyang Technological University's executive education and alumni centre in Singapore's one-north research and innovation district.
 
-**Direction to Auditorium and Lecture Theatres** will be provided (see document “Directions to Venues” for floor plans)
+The campus is less than a 10-minute walk from Buona Vista MRT station, nearby hotels, and the Star Vista shopping centre. It takes about one hour to reach by MRT from Changi Airport or around 30 minutes by car, depending on traffic. A taxi from Changi Airport typically costs **S$30-S$50**.
 
-Less than 10 minutes walk to Buona Vista MRT station, hotels, and Star Vista shopping centre
+Free Wi-Fi will be available to conference participants. Auditorium and lecture-theatre assignments, registration-desk details, and floor plans will be published closer to the conference.
 
-Can be reach by MRT from airport in about one hour and by car in about 30 minutes (depending on the traffic)
-
-A taxi from Changi Airport to NTU@OneNorth will cost between S$30 and S$50
+For detailed MRT, airport, and on-campus directions, see [Travel (How to Get There)](travel.md).
