@@ -1,4 +1,3 @@
 # Student Travel Awards
 
-!!! info "Coming Soon"
-    This page is under development. Please check back later for student travel award information.
+ICPP 2026 will not offer student travel awards.
