@@ -118,6 +118,10 @@
   margin-top: 0rem !important;
 }
 
+.landingpage-buttons .md-button {
+  margin: 0.4rem 0.4rem;
+}
+
 .hero__logo {
   width: clamp(110px, 22vw, 320px);
   height: auto;

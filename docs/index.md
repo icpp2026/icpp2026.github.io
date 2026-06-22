@@ -12,7 +12,7 @@ hide:
 ### The International Conference on Parallel Processing (ICPP) is one of the oldest continuously running computer science conferences in parallel computing in the world. It is a premier forum for researchers, scientists, and practitioners in academia, industry, and government to present their latest research findings in all aspects of the field.
 </div>
 
-<div style="text-align: center" markdown>
+<div class="landingpage-buttons" style="text-align: center" markdown>
 [Register](registration.md){ .md-button .md-button--primary }
 [Keynotes](keynote-speakers.md){ .md-button }
 [Venue &amp; Travel](venue.md){ .md-button }
