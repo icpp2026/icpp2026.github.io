@@ -10,6 +10,11 @@ As mentioned in the [Venue](venue.md) page, ICPP 2026 will be held at **NTU@one-
 
 Most international visitors arrive at [Changi Airport](https://www.changiairport.com/){:target="_blank"} (`SIN`). It is about a one-hour MRT ride or a 30-minute taxi ride (depending on traffic) from the conference venue.
 
+!!! tip "Delegate benefits at Changi Airport"
+    Changi Airport Group supports ICPP 2026 through the **Singapore MICE Advantage Programme (SMAP)**. As a delegate you can enjoy exclusive dining, shopping, experiences, and travel-essentials offers at Changi. Browse the full list and redemption instructions on the [SMAP benefits page](https://www.changiairport.com/en/prog/smap.html?utm_source=email&utm_medium=SMAP&utm_campaign=parallelprocessing2026){:target="_blank"}. Some offers require you to present the **Delegate Benefit Card** below (valid 1 April 2026 – 31 March 2028) — scan its QR code to see all benefits.
+
+    ![SMAP Delegate Benefit Card](assets/imgs/smap-card.png){ width="320" style="display:block;margin:0 auto" }
+
 The most convenient and economical way to reach the venue is by **MRT** (Singapore's metro system). Take the train from **Changi Airport MRT Station (`CG2`)** to **Tanah Merah MRT Station (`EW4`)**, then transfer to the **East-West Line** (green) heading towards Tuas Link. Alight at **Buona Vista MRT Station (`EW21`)**. The whole journey takes roughly one hour.
 
 !!! warning "Use Buona Vista, not one-north"
