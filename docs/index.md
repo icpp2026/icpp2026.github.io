@@ -21,7 +21,7 @@ hide:
 <div markdown>
 <h2>News</h2>
 
-- **[Registration for ICPP 2026 is now open.](registration.md)** Early-bird rates apply until 27 August 2026.
+- **[Registration for ICPP 2026 is now open.](registration.md)** Early-bird rates apply until 12 August 2026.
 
 </div>
 
@@ -32,7 +32,7 @@ hide:
 |-------|------|
 | Author Notiﬁcation | June 30, 2026 |
 | Camera-ready Deadline | July 30, 2026 |
-| Early-bird Registration Deadline | August 27, 2026 |
+| Early-bird Registration Deadline | August 12, 2026 |
 | Conference | September 28 - October 1, 2026 |
 
 </div>
