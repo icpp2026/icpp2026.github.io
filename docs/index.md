@@ -13,7 +13,7 @@ hide:
 </div>
 
 <div class="landingpage-buttons" style="text-align: center" markdown>
-[Register](registration.md){ .md-button .md-button--primary }
+[Register](registration.md){ .md-button }
 [Keynotes](keynote-speakers.md){ .md-button }
 [Venue &amp; Travel](venue.md){ .md-button }
 </div>
