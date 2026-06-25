@@ -51,7 +51,7 @@ The demo paper submission deadline has been extended to **May 29, 2026** (AoE).
 | Event | Date |
 |-------|------|
 | Demo Paper Submission | May 29, 2026 |
-| Notification of Acceptance | Jun 30, 2026 |
+| Notification of Acceptance | July 10, 2026 |
 | Camera-Ready Deadline | July 30, 2026 (_Firm Deadline_) |
 
 ### Demo Chairs
