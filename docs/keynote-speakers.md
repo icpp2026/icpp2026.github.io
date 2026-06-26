@@ -54,3 +54,21 @@
 
 ----
 
+## **Parallel computing on ultra-low-power chips**
+
+<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 1rem;">
+    <img src="../assets/imgs/li-shiuan-peh.png" alt="Prof. Li-Shiuan Peh" style="width: 150px; border-radius: 8px;">
+    <div style="flex: 1;">
+        <h3 style="margin: 0;"><strong>Li-Shiuan Peh</strong></h3>
+        <p style="margin: 0.5rem 0 0 0;">National University of Singapore<br>Singapore</p>
+    </div>
+</div>
+
+**Abstract:** This talk will discuss how parallel computing is making inroads into ultra-low-power chips. I will chronicle how the highly parallel architectures of supercomputers and servers that enabled scalable HPC have made their way into AI accelerators in data centers in recent years, and are moving further into edge devices to enable power-efficient chips that deliver high performance at mW. Next, I will walk through recent research into ultra-low-power AI accelerators and several of our chip prototypes targeting battery-powered edge devices. The talk will round off with a glimpse into how these chips can enable next-generation AI-powered wearables.
+
+**Bio:** Prof. **Li-Shiuan Peh** joined NUS as Provost’s Chair Professor in the Department of Computer Science, with a courtesy appointment in the Department of Electrical and Computer Engineering in 2016. Previously, she was Professor of Electrical Engineering and Computer Science at MIT and was on the faculty of MIT since 2009. She was also the Associate Director for Outreach of the Singapore-MIT Alliance of Research & Technology (SMART) from 2015-2016. Prior to MIT, she was on the faculty of Princeton University from 2002. She graduated with a Ph.D. in Computer Science from Stanford University in 2001, and a B.S. in Computer Science from the National University of Singapore in 1995. Her research focuses on on-chip networks, low-power chips and systems. Her awards include IEEE Fellow in 2017, NRF Returning Singaporean Scientist Award in 2016, ACM Distinguished Scientist Award in 2011, MICRO Hall of Fame in 2011, CRA Anita Borg Early Career Award in 2007, Sloan Research Fellowship in 2006, and the NSF CAREER award in 2003. Her papers have received 4 test-of-time awards.
+
+<div style="clear: both;"></div>
+
+----
+
