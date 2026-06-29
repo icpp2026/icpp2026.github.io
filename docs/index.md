@@ -21,7 +21,7 @@ hide:
 <div markdown>
 <h2>News</h2>
 
-- **[Registration for ICPP 2026 is now open.](registration.md)** Early-bird rates apply until 12 August 2026.
+- **[Registration for ICPP 2026 will open soon.](registration.md)** Early-bird rates apply until 12 August 2026.
 
 </div>
 

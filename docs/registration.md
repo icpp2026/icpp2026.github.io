@@ -1,6 +1,6 @@
 ## Registration
 
-Registration for ICPP 2026 is now open. The 55th International Conference on Parallel Processing will be held in Singapore from **September 28 - October 1, 2026** at [NTU@one-north](https://www.ntu.edu.sg/life-at-ntu/leisure-and-dining/ntu@one-north){:target="_blank"}.
+Registration for ICPP 2026 will open soon. The 55th International Conference on Parallel Processing will be held in Singapore from **September 28 - October 1, 2026** at [NTU@one-north](https://www.ntu.edu.sg/life-at-ntu/leisure-and-dining/ntu@one-north){:target="_blank"}.
 
 All registrations are processed through **Eventbrite**. Select **Get tickets** on the event page, choose the correct ticket type and quantity, and complete payment. Additional banquet tickets are available as add-ons. Please confirm your ticket type before purchase; Eventbrite will email your order confirmation and ticket after checkout.
 
