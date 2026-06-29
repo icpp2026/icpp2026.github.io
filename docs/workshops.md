@@ -12,6 +12,8 @@ ICPP 2026 will host co-located workshops. Details for each workshop, including c
 
 **[Sustainable Computing for High-Performance and Distributed Systems (SUSTAIN-HPC)](https://icpp2026.github.io/sustain-hpc-2026/){:target="_blank"}**
 
+**[Agentic AI in Real-World Systems: Infrastructure, Algorithms, and Deployment (non-archival)](https://airs-workshop.github.io/){:target="_blank"}**
+
 !!! note
 
     Additional workshops will be listed here as they are announced. For information on proposing a workshop, see the [Call for Workshops](call-for-workshops.md).
