@@ -4,8 +4,8 @@ ICPP 2026 invites poster submissions presenting early-stage research, novel idea
 
 ### Important Dates
 
-* **Poster submission deadline:** ~~June 15, 2026~~ **July 15, 2026**  
-* **Poster author notification:** ~~July 15, 2026~~ **July 25, 2026**
+* **Poster submission deadline:** <del>June 15, 2026</del> **July 15, 2026**  
+* **Poster author notification:** <del>July 15, 2026</del> **July 25, 2026**
 
 ### Poster Submission Guidelines
 
