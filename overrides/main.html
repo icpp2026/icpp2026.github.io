@@ -59,8 +59,8 @@
 {% endblock %}
 
 {% block content %}
-  {{ super() }}
   {% if page.file and page.file.src_path == "sponsors.md" %}
     {% include "partials/sponsors.html" %}
   {% endif %}
+  {{ super() }}
 {% endblock %}
