@@ -55,10 +55,16 @@ Single MRT trips typically cost around **S$1–2**. Foreign-issued Mastercard an
 
 NTU@one-north is **less than a 10-minute walk** from Buona Vista MRT station, near the Star Vista shopping centre. On arrival at the campus, take the lift at **lift lobby 2** (or the escalator) to **level 3**, enter Alumni House, and turn left.
 
-ICPP 2026 uses two floors of the building, both reached from **lift lobby 2**:
+ICPP 2026 uses two floors of the building, both served by **lift lobby 2**:
 
-- **Level 3** — Registration and check-in, the main **auditorium** for plenary and keynote sessions, and the **function hall** used for lunches, coffee breaks, and poster sessions. Look for the ICPP 2026 signage near the registration desk to get your bearings.
-- **Level 7** — Additional meeting rooms for the parallel technical, workshop, and other breakout sessions.
+- **Level 3** — Registration and reception, with **Auditorium 302** and **Lecture Theatre 301** for the plenary and keynote sessions. Enter through the Alumni House entrance.
+- **Level 7** — **Lecture Theatres 701 and 702** and **Seminar Rooms 703, 704, 706, and 706A** for the parallel technical, workshop, and breakout sessions.
 
-!!! note "Floor maps and room assignments"
-    Detailed floor maps and the room assigned to each session will be shared closer to the event, and registration staff can point you in the right direction after you check in. See the [Venue](venue.md) page for more about the campus.
+[![NTU@one-north level 3 floor plan](assets/imgs/venue_maps_L3.jpg){ style="width:100%;max-width:760px;display:block;margin:1.25rem auto 0.25rem;border:1px solid rgba(0,0,0,0.12);border-radius:6px" }](assets/imgs/venue_maps_L3.jpg){:target="_blank"}
+<p style="text-align:center;font-size:0.85rem;color:#888;margin:0 0 1.5rem;">Level 3 floor plan — registration, Auditorium 302, and Lecture Theatre 301 (tap to enlarge).</p>
+
+[![NTU@one-north level 7 floor plan](assets/imgs/venue_maps_L7.jpg){ style="width:100%;max-width:760px;display:block;margin:0 auto 0.25rem;border:1px solid rgba(0,0,0,0.12);border-radius:6px" }](assets/imgs/venue_maps_L7.jpg){:target="_blank"}
+<p style="text-align:center;font-size:0.85rem;color:#888;margin:0;">Level 7 floor plan — Lecture Theatres 701/702 and Seminar Rooms 703/704/706/706A (tap to enlarge).</p>
+
+!!! note "Room assignments"
+    The room assigned to each session will be confirmed closer to the event, and registration staff can point you in the right direction after you check in. See the [Venue](venue.md) page for more about the campus.
