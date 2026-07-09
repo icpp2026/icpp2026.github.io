@@ -55,5 +55,10 @@ Single MRT trips typically cost around **S$1–2**. Foreign-issued Mastercard an
 
 NTU@one-north is **less than a 10-minute walk** from Buona Vista MRT station, near the Star Vista shopping centre. On arrival at the campus, take the lift at **lift lobby 2** (or the escalator) to **level 3**, enter Alumni House, and turn left.
 
-!!! note "Detailed floor directions coming soon"
-    The location of the registration desk, room-level directions, and floor maps for ICPP 2026 will be provided closer to the event. In the meantime, see the [Venue](venue.md) page for more details about the campus.
+ICPP 2026 uses two floors of the building, both reached from **lift lobby 2**:
+
+- **Level 3** — Registration and check-in, the main **auditorium** for plenary and keynote sessions, and the **function hall** used for lunches, coffee breaks, and poster sessions. Look for the ICPP 2026 signage near the registration desk to get your bearings.
+- **Level 7** — Additional meeting rooms for the parallel technical, workshop, and other breakout sessions.
+
+!!! note "Floor maps and room assignments"
+    Detailed floor maps and the room assigned to each session will be shared closer to the event, and registration staff can point you in the right direction after you check in. See the [Venue](venue.md) page for more about the campus.
