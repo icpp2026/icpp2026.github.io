@@ -61,6 +61,7 @@
 {% block content %}
   {% if page.file and page.file.src_path == "sponsors.md" %}
     {% include "partials/sponsors.html" %}
+    <div class="sponsors-divider" style="border-top: 1px solid rgba(0, 0, 0, 0.1); margin-top: 2rem;"></div>
   {% endif %}
   {{ super() }}
 {% endblock %}
