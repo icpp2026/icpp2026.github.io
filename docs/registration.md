@@ -5,7 +5,7 @@ Registration for ICPP 2026 will open soon. The 55th International Conference on 
 All registrations are processed through **Eventbrite**. Select **Get tickets** on the event page, choose the correct ticket type and quantity, and complete payment. Additional banquet tickets are available as add-ons. Please confirm your ticket type before purchase; Eventbrite will email your order confirmation and ticket after checkout.
 
 <div style="text-align: center" markdown>
-[Register on Eventbrite](https://www.eventbrite.sg/e/icpp-2026-the-55th-international-conference-on-parallel-processing-tickets-1983683035358){ .md-button .md-button--primary target="_blank"}
+[Register on Eventbrite](https://www.eventbrite.sg/e/icpp-2026-the-55th-international-conference-on-parallel-processing-tickets-1994289775403){ .md-button .md-button--primary target="_blank"}
 </div>
 
 ### Registration Fees
@@ -40,4 +40,4 @@ Refunds are available **up to 15 days before the event**. Eventbrite platform ch
 
 For questions about registration, please contact the ICPP 2026 organizing committee through the **Contact** option on Eventbrite. Payment is handled by the **Society of Green & Sustainable Computing Singapore** via Eventbrite. **Should you have any problems or difficulties with payment, kindly contact the organizer and we will try to assist you.**
 
-All other registration terms and policies are governed by the [Eventbrite event page](https://www.eventbrite.sg/e/icpp-2026-the-55th-international-conference-on-parallel-processing-tickets-1983683035358){:target="_blank"}, which takes precedence in case of any discrepancy.
+All other registration terms and policies are governed by the [Eventbrite event page](https://www.eventbrite.sg/e/icpp-2026-the-55th-international-conference-on-parallel-processing-tickets-1994289775403){:target="_blank"}, which takes precedence in case of any discrepancy.
