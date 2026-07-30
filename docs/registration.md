@@ -34,7 +34,7 @@ Student registrations are intended for full-time students and **do not** satisfy
 
 ### Refund Policy
 
-Refunds are available **up to 15 days before the event**. Eventbrite platform charges are non-refundable and are borne by the participant. Requests within 15 days of the conference cannot be accommodated. Please refer to the Eventbrite event page for the most up-to-date terms.
+Refunds are available **up to 7 days before the event**. Eventbrite platform charges are non-refundable and are borne by the participant. Requests within 7 days of the conference cannot be accommodated. Please refer to the Eventbrite event page for the most up-to-date terms.
 
 ### Contact
 
