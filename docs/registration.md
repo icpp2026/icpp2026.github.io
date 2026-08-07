@@ -71,6 +71,14 @@ For each accepted paper, **at least one full (Regular) registration is required*
 
 Student registrations are intended for full-time students and **do not** satisfy the author registration requirement.
 
+### Visa Invitation Letter
+
+Visa invitation letters are issued only after the required information has been submitted through the online application form below.
+
+<div style="text-align: center" markdown>
+[Visa Invitation Letter Application](https://forms.office.com/r/7B5ZAE3kAK){ .md-button target="_blank"}
+</div>
+
 ### Refund Policy
 
 Refunds are available **up to 7 days before the event**. Any platform or bank charges are non-refundable and are borne by the participant. Requests within 7 days of the conference cannot be accommodated. Please refer to the Eventbrite event page for the most up-to-date terms.
