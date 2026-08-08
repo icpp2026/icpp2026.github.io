@@ -14,34 +14,11 @@ Select **Get tickets** on the event page, choose the correct ticket type and qua
 
 ### Option 2 — Registration form and bank transfer
 
-If you encounter any problems using Eventbrite, you can also register by bank transfer using the **ICPP 2026 Registration Form**.
+If you encounter any problems using Eventbrite, you can also register by bank transfer. Download the **ICPP 2026 Registration Form** and follow the instructions on **page 1** to complete the transfer and submit the form. Registration is confirmed only after both the completed form and proof of payment have been received.
 
 <div style="text-align: center" markdown>
 [Download the ICPP 2026 Registration Form](https://drive.google.com/file/d/1w-vB0nDw2HTqqQTXGntncstdm0O6mZb9/view?usp=sharing){ .md-button target="_blank"}
 </div>
-
-1. Determine your registration category and any add-ons from the fee table below, and calculate the total amount payable.
-2. Transfer the total amount to the Society's bank account. **All registrants must enter a payment reference** in the format given under *Bank transfer details* below.
-3. Complete the Registration Form on page 2 in full — on screen, or in block letters if printed.
-4. Email the completed form together with proof of payment to **[contact@sgscs.org](mailto:contact@sgscs.org)**. Acceptable proof: a screenshot of the transfer confirmation, or a bank statement showing the transaction.
-
-#### Bank transfer details
-
-| Field | Details |
-|-------|---------|
-| Beneficiary | Society of Green and Sustainable Computing Singapore |
-| Bank | DBS Bank |
-| Account no. | 0721541955 |
-| SWIFT / BIC | DBSSSGSG |
-| Currency | SGD |
-| Bank address | 12 Marina Boulevard, DBS Asia Central, Marina Bay Financial Centre Tower 3, Singapore 018982 |
-| Reference | **Authors** — your Submission ID. **All others** — `ICPP26 LASTNAME FIRSTINITIAL` (capitals, no punctuation; e.g. `ICPP26 TAN W`). If the field is too short, use `ICPP26` and your last name. |
-
-!!! note "Please note"
-    - All bank charges, including intermediary and receiving-bank fees, are borne by the registrant. The amount stated must be received in full.
-    - Fees are determined by the date on which payment is made.
-    - Registration is confirmed only after both the completed form and valid proof of payment have been received. Confirmation will be issued to the registrant by email.
-    - Submit one form per registrant, and only if your registration has not already been completed online.
 
 ### Registration Fees
 
