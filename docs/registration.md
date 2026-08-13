@@ -22,9 +22,9 @@ If you encounter any problems using Eventbrite, you can also register by bank tr
 
 ### Registration Fees
 
-All fees are quoted in **Singapore Dollars (SGD)**. To take advantage of the lower **early-bird** rates, please register **on or before 12 August 2026**. Standard rates apply from 13 August 2026 onwards.
+All fees are quoted in **Singapore Dollars (SGD)**. To take advantage of the lower **early-bird** rates, please register **on or before 19 August 2026**. Standard rates apply from 20 August 2026 onwards.
 
-| Category | Early Bird (until 12 Aug 2026) | Regular (from 13 Aug 2026) |
+| Category | Early Bird (until 19 Aug 2026) | Regular (from 20 Aug 2026) |
 |----------|:------------------------------:|:--------------------------:|
 | Regular Registration | S$1,200 | S$1,400 |
 | Student Registration | S$600 | S$800 |
@@ -36,8 +36,8 @@ Cable Car Sky Pass: return transport to your hotel is not included and must be a
 
 Any Eventbrite processing charges are shown during checkout. For bank transfers, fees are determined by the date on which payment is made.
 
-!!! info "Early-bird deadline — 12 August 2026"
-    Early-bird pricing ends on **12 August 2026**. Register early to secure the discounted rate.
+!!! info "Early-bird deadline — 19 August 2026"
+    Early-bird pricing ends on **19 August 2026**. Register early to secure the discounted rate.
 
 !!! note "Banquet Tickets"
     Banquet tickets may be purchased at **S$150** each (for example, for accompanying guests), while available. Banquet add-on sales close on **18 September 2026**.
