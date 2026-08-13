@@ -60,19 +60,19 @@
 ## Tutorial Chairs
 
 - [Chen Wang](https://wangchen.io/){:target="\_blank"}, Nanyang Technological University, Singapore
-- [Chen Cheng](https://scholar.google.com/citations?user=VFEj24Lh3oUC&hl=en){:target="\_blank"}, ByteDance, Singapore
+- [Cheng Chen](https://scholar.google.com/citations?user=VFEj24Lh3oUC&hl=en){:target="\_blank"}, ByteDance, Singapore
 
 ## Finance Chair
 
-- [He Jiong](https://hejiong.me/){:target="\_blank"}, National University of Singapore, Singapore
+- [Jiong He](https://hejiong.me/){:target="\_blank"}, National University of Singapore, Singapore
 
 ## Proceeding Chair
 
-- [TA Nguyen Binh Duong](https://faculty.smu.edu.sg/profile/don-ta-326){:target="\_blank"}, Singapore Management University, Singapore
+- [Nguyen Binh Duong Ta](https://faculty.smu.edu.sg/profile/don-ta-326){:target="\_blank"}, Singapore Management University, Singapore
 
 ## Publicity Chairs
 
-- [Tan Rui](https://personal.ntu.edu.sg/tanrui/){:target="\_blank"}, Nanyang Technological University, Singapore
+- [Rui Tan](https://personal.ntu.edu.sg/tanrui/){:target="\_blank"}, Nanyang Technological University, Singapore
 - [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/){:target="\_blank"}, Tsinghua University, China
 - [Ayesha Afzal](https://hpc.fau.de/person/ayesha-afzal/){:target="\_blank"}, Erlangen National High Performance Computing Center (NHR@FAU), Germany
 

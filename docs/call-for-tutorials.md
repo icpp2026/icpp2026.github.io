@@ -45,7 +45,7 @@ ICPP 2026 conference registrants may attend tutorials at no additional cost. The
 ## Tutorial Chairs
 
 - **Chen Wang**, Nanyang Technological University, Singapore
-- **Chen Cheng**, ByteDance, Singapore
+- **Cheng Chen**, ByteDance, Singapore
 
 ## Important Dates
 
@@ -58,4 +58,4 @@ ICPP 2026 conference registrants may attend tutorials at no additional cost. The
 For inquiries, please contact:
 
 - Chen Wang ([chen.wang@ntu.edu.sg](mailto:chen.wang@ntu.edu.sg))
-- Chen Cheng ([chencheng.sg@bytedance.com](mailto:chencheng.sg@bytedance.com))
+- Cheng Chen ([chencheng.sg@bytedance.com](mailto:chencheng.sg@bytedance.com))
