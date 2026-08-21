@@ -66,6 +66,10 @@
 
 - [Jiong He](https://hejiong.me/){:target="\_blank"}, National University of Singapore, Singapore
 
+## Sponsor Co-Chairs
+
+- [Tao Luo](https://research.a-star.edu.sg/researcher/tao-luo/){:target="\_blank"}, A\*STAR Institute of Advanced Intelligence and Computing, Singapore
+
 ## Proceeding Chair
 
 - [Nguyen Binh Duong Ta](https://faculty.smu.edu.sg/profile/don-ta-326){:target="\_blank"}, Singapore Management University, Singapore
