@@ -47,8 +47,7 @@ nav:
   - Program:
     - Schedule: schedule.md
     - Panels: panels.md
-    - Tutorials: tutorials.md
-  - Workshops: workshops.md
+  - Workshops and Tutorials: workshops.md
   - Keynotes: keynote-speakers.md
   - Attending:
     - Registration: registration.md

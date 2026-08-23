@@ -3,6 +3,7 @@ site/
 
 # Private hotel/correspondence files — never publish to this public repo
 *.eml
+temp/
 
 # Playwright MCP scratch artifacts
 .playwright-mcp/
