@@ -92,9 +92,3 @@ Additional learning objectives:
 **Acknowledgment:** This work was supported in part by AMD and ETH Zurich, who provided access to the Heterogeneous Accelerated Compute Cluster (HACC) at ETHZ.
 
 **Reference:** [Tutorial overview (PDF)](assets/tutorials/icpp2026-tutorial-coyote-v2.pdf){:target="_blank"}
-
-----
-
-!!! note
-
-    For information on proposing a tutorial, see the [Call for Tutorials](call-for-tutorials.md).
