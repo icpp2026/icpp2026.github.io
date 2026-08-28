@@ -58,7 +58,7 @@
 - Loris Marchal, French National Center for Scientific Research (CNRS), ENS Lyon, France
 - Sergio Miguel Martin, Huawei Technologies Switzerland AG, Switzerland
 - Aristeidis Mastoras, University of Ioannina, Greece
-- Marco Minutoli, Advanced Micro Devices, USA
+- Marco Minutoli, Advanced Micro Devices, Inc. (AMD), USA
 - Anisur Rahaman Molla, ISI Kolkata, India
 - Kengo Nakajima, The University of Tokyo, RIKEN Center for Computational Science (R-CCS), Japan
 - Eric Phipps, Sandia National Laboratories, USA
