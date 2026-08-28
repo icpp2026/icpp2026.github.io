@@ -102,7 +102,7 @@
 - Ravi Gupta, Advanced Micro Devices, Inc. (AMD), USA
 - Shashikant Ilager, University of Amsterdam, Netherlands
 - Toshiyuki Imamura, RIKEN, RIKEN Center for Computational Science (R-CCS), Japan
-- Prashanthi Kadambi, Advanced Micro Devices (AMD), India
+- Prashanthi Kadambi, Advanced Micro Devices, Inc. (AMD), India
 - Yao Kang, NVIDIA Corporation, USA
 - Hemanth Kolla, Sandia National Laboratories, USA
 - Radita Liem, RWTH Aachen University, Germany
