@@ -99,9 +99,10 @@
 - Sandro Fiore, University of Trento, Italy
 - Philipp Gschwandtner, University of Innsbruck, Austria
 - John A. Gunnels, NVIDIA Corporation, USA
-- Ravi Gupta, AMD Corporation, USA
+- Ravi Gupta, Advanced Micro Devices, Inc. (AMD), USA
 - Shashikant Ilager, University of Amsterdam, Netherlands
 - Toshiyuki Imamura, RIKEN, RIKEN Center for Computational Science (R-CCS), Japan
+- Prashanthi Kadambi, Advanced Micro Devices (AMD), India
 - Yao Kang, NVIDIA Corporation, USA
 - Hemanth Kolla, Sandia National Laboratories, USA
 - Radita Liem, RWTH Aachen University, Germany
@@ -115,7 +116,6 @@
 - Bo Peng, Shanghai Jiao Tong University, China
 - Suman Raj, University of Chicago, USA
 - Kristian Rietveld, Leiden University, Netherlands
-- Prashanthi S K, Indian Institute of Science, India
 - Alessio Sclocco, Netherlands eScience Center, Netherlands
 - Yogesh Simmhan, Indian Institute of Science, Bangalore, India
 - Daisuke Takahashi, University of Tsukuba, Japan
@@ -152,13 +152,13 @@
 - Diana Göhringer, Technical University Dresden, Germany
 - Toshihiro Hanawa, The University of Tokyo, Japan
 - Aleksandar Ilic, INESC-ID, IST, University of Lisbon, Portugal
-- Ian Karlin, NVIDIA Corporation, USA
+- Ian Karlin, Queen's University, Canada
 - Sven Karlsson, Technical University of Denmark, Denmark
-- Arjun Kashyap, NVIDIA, USA
+- Arjun Kashyap, NVIDIA Corporation, USA
 - Youngjae Kim, Sogang University, South Korea
 - Eun Jung Kim, Texas A&M University, USA
 - Joonsung Kim, Sungkyunkwan University, South Korea
-- Benjamin Klenk, Nvidia Corporation, USA
+- Benjamin Klenk, NVIDIA Corporation, USA
 - Kazuhiko Komatsu, Tohoku University, Japan
 - Ankur Limaye, Pacific Northwest National Laboratory (PNNL), USA
 - Arthur Lorenzon, Federal University of Rio Grande do Sul, Brazil
@@ -168,7 +168,7 @@
 - Gianluca Palermo, DEIB, Politecnico di Milano, Italy
 - Ivy Peng, KTH Royal Institute of Technology, Sweden
 - Lubomir Riha, IT4Innovations National Supercomputing Center; Technical University of Ostrava, Czech Republic
-- Julio Sahuquillo, Polytechnic University of Valencia, Spain
+- Julio Sahuquillo, Universitat Politecnica de Valencia, Spain
 - Smruti Sarangi, IIT Delhi, India
 - Alessandro Savino, Politecnico di Torino, Italy
 - Catherine Schuman, University of Tennessee, Knoxville, USA
@@ -206,7 +206,7 @@
 
 ## Performance
 
-- Farah Ait Salaht, Léonard de Vinci Pôle Universitaire, France
+- Farah Ait Salaht, De Vinci Higher Education, De Vinci Research Center, France
 - Michela Becchi, North Carolina State University, USA
 - Jean Luca Bez, Lawrence Berkeley National Laboratory (LBNL), USA
 - Jalil Boukhobza, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France
@@ -282,7 +282,7 @@
 - Jiajun Huang, University of South Florida, USA
 - Sascha Hunold, Technical University of Vienna, Austria
 - Sergio Iserte, Barcelona Supercomputing Center (BSC), Spain
-- Ian Karlin, NVIDIA Corporation, USA
+- Ian Karlin, Queen's University, Canada
 - Swathi Kovvuri, Intel Corporation, USA
 - Sidharth Kumar, University of Illinois Chicago, USA
 - Guanpeng Li, University of Florida, USA
@@ -320,3 +320,28 @@
 - Zipeng Wu, SpinQ Technology, China
 - Yang Zhang, Miami University, USA
 - Jiapeng Zhao, Cisco, USA
+
+## Posters
+
+- Yao Chen, Huazhong University of Science and Technology, China
+- Jee Choi, University of Oregon, USA
+- Yao Kang, NVIDIA Corporation, USA
+- Ian Karlin, Queen's University, Canada
+- Sidharth Kumar, University of Illinois Chicago, USA
+- Haoyang Li, Hong Kong Polytechnic University, Hong Kong
+- Qiange Wang, Northeastern University, China
+- Zeke Wang, Zhejiang University, China
+- Feng Zhang, Renmin University of China, China
+- Jin Zhao, Huazhong University of Science and Technology, China
+
+## Demos
+
+- Xinyu Chen, The Hong Kong University of Science and Technology (Guangzhou), China
+- Gabriel Freytag, Federal University of Rio Grande do Sul, Brazil
+- Jessica Imlau Dagostini, University of California, Santa Cruz, USA
+- Jiaxin Jiang, Zhejiang University, China
+- Mukeshkumar Khaniya, Apple, USA
+- Swathi Kovvuri, Intel Corporation, USA
+- Shivank Rai, Amazon, USA
+- Houjun Tang, Lawrence Berkeley National Laboratory, USA
+- Zhen Zhang, Nanjing University, China
