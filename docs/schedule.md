@@ -38,7 +38,8 @@ Lecture Theatres 301/701/702 (LT301, LT701, LT702) and Seminar Rooms 703/706 (SR
 
 </div>
 
-Full workshop and tutorial details are on the [Workshops and Tutorials](workshops.md) page.
+Tutorial abstracts and agendas, and links to each workshop's own website, are on the
+[Workshops and Tutorials](workshops.md) page.
 
 ----
 

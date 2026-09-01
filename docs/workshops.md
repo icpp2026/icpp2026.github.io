@@ -4,17 +4,23 @@ ICPP 2026 will host co-located workshops and tutorials on the first day of the c
 
 ## Workshops
 
-Details for each workshop, including calls for papers and submission instructions, are maintained on the workshop websites.
+Each workshop's own website carries its call for papers, submission instructions and
+detailed agenda. Session times and rooms below are from the [conference program](schedule.md).
 
-**[International Workshop on Data Compression for AI and Big Data Applications (DC4AI)](https://hpc-and-ai.github.io/DC4AI-2026/){:target="_blank"}**
+**[International Workshop on Data Compression for AI and Big Data Applications (DC4AI)](https://hpc-and-ai.github.io/DC4AI-2026/){:target="_blank"}**  
+Afternoon, 13:30–17:00 · SR703
 
-**[State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC / NVSUG)](https://nvsug.github.io/spin-nvsc/){:target="_blank"}**
+**[State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC / NVSUG)](https://nvsug.github.io/spin-nvsc/){:target="_blank"}**  
+Full day, 9:00–17:00 · LT701
 
-**[Benchmarking in the Data Center (BID)](https://parallel.computer/){:target="_blank"}**
+**[Benchmarking in the Data Center (BID)](https://parallel.computer/){:target="_blank"}**  
+Morning, 9:00–12:30 · SR703
 
-**[Sustainable Computing for High-Performance and Distributed Systems (SUSTAIN-HPC)](https://icpp2026.github.io/sustain-hpc-2026/){:target="_blank"}**
+**[Sustainable Computing for High-Performance and Distributed Systems (SUSTAIN-HPC)](https://icpp2026.github.io/sustain-hpc-2026/){:target="_blank"}**  
+Morning, 9:00–12:30 · LT702
 
-**[Agentic AI in Real-World Systems: Infrastructure, Algorithms, and Deployment (non-archival)](https://airs-workshop.github.io/){:target="_blank"}**
+**[Agentic AI in Real-World Systems: Infrastructure, Algorithms, and Deployment (non-archival)](https://airs-workshop.github.io/){:target="_blank"}**  
+Afternoon, 13:30–17:00 · LT702
 
 !!! note
 
@@ -25,6 +31,8 @@ Details for each workshop, including calls for papers and submission instruction
 ## Tutorials
 
 ### **Accelerating AI and HPC Workflows with AMD ROCm AI and Modern GPU Clusters**
+
+Morning, 9:00–12:30 · SR706
 
 **Presenters:**
 
@@ -61,6 +69,8 @@ Details for each workshop, including calls for papers and submission instruction
 ----
 
 ### **Coyote V2: An Open-Source FPGA Shell for Modern Distributed Data Processing**
+
+Afternoon, 13:30–17:00 · SR706
 
 **Presenter:** Dr. **Shien Zhu**, Systems Group, ETH Zurich, Switzerland — [shien.zhu@inf.ethz.ch](mailto:shien.zhu@inf.ethz.ch)
 
