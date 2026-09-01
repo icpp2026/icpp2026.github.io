@@ -176,3 +176,8 @@
     height: 10vh;
   }
 }
+
+/* Program page: keep each session's time range on a single line */
+.schedule-day td:first-child {
+  white-space: nowrap;
+}
