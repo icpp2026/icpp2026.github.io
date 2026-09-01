@@ -53,7 +53,7 @@ Student registrations are intended for full-time students and **do not** satisfy
 Visa invitation letters are issued only after the required information has been submitted through the online application form below.
 
 <div style="text-align: center" markdown>
-[Visa Invitation Letter Application](https://forms.office.com/r/7B5ZAE3kAK){ .md-button target="_blank"}
+[Visa Invitation Letter Application](https://forms.cloud.microsoft/r/5J67McNFD8){ .md-button target="_blank"}
 </div>
 
 ### Refund Policy
