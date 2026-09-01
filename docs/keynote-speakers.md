@@ -36,7 +36,7 @@
 
 ----
 
-## **Ultra Ethernet for next-generation AI and HPC workloads**
+## **Ultra Ethernet for Next-Generation AI and HPC Workloads**
 
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 1rem;">
     <img src="../assets/imgs/torsten-hoefler.jpg" alt="Prof. Torsten Hoefler" style="width: 150px; border-radius: 8px;">
@@ -54,7 +54,7 @@
 
 ----
 
-## **Parallel computing on ultra-low-power chips**
+## **Parallel Computing on Ultra-Low-Power Chips**
 
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 1rem;">
     <img src="../assets/imgs/li-shiuan-peh.png" alt="Prof. Li-Shiuan Peh" style="width: 150px; border-radius: 8px;">

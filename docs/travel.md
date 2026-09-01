@@ -67,4 +67,4 @@ ICPP 2026 uses two floors of the building, both served by **lift lobby 2**:
 <p style="text-align:center;font-size:0.85rem;color:#888;margin:0;">Level 7 floor plan — Lecture Theatres 701/702 and Seminar Rooms 703/704/706/706A (tap to enlarge).</p>
 
 !!! note "Room assignments"
-    The room assigned to each session will be confirmed closer to the event, and registration staff can point you in the right direction after you check in. See the [Venue](venue.md) page for more about the campus.
+    The room for every session is listed in the [conference program](schedule.md), and registration staff can point you in the right direction after you check in. See the [Venue](venue.md) page for more about the campus.
