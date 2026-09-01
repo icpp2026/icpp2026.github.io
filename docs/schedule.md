@@ -9,10 +9,6 @@ Sessions are held at NTU@one-north on levels 3 and 7. Room codes below refer to 
 Lecture Theatres 301/701/702 (LT301, LT701, LT702) and Seminar Rooms 703/706 (SR703, SR706); see the
 [floor plans](travel.md#at-ntuone-north-navigating-the-venue) for how to find them.
 
-!!! info "Subject to change"
-
-    The program below is current as of publication and may still be adjusted. Session chairs are still to be confirmed.
-
 | Day | Highlights |
 | :--- | :--- |
 | [**Mon, 28 Sep**](#day-0) — Workshops & Tutorials | 5 workshops and 2 tutorials |

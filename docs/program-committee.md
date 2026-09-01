@@ -243,7 +243,7 @@
 - Frédéric Suter, Oak Ridge National Laboratory (ORNL), USA
 - Shanjiang Tang, Tianjin University, China
 - Francois Tessier, French Institute for Research in Computer Science and Automation (INRIA), France
-- François Trahay, Telecom SudParis, Inria, France
+- François Trahay, Télécom SudParis, Institut Polytechnique de Paris, France
 - Monica Vitali, Politecnico di Milano, Italy
 - Jue Wang, Computer Network Information Center, Chinese Academy of Sciences; University of Chinese Academy of Sciences, China
 - Wen Xia, Harbin Institute of Technology, China; Peng Cheng Laboratory, Shenzhen, China
@@ -302,7 +302,7 @@
 - Tong Shu, University of North Texas, USA
 - Seung Woo Son, University of Massachusetts Lowell, USA
 - Mohamed Wahib, RIKEN Center for Computational Science (R-CCS), Japan
-- Chen Wang, Nanyang Technological University, Singapore; Lawrence Livermore National Laboratory (LLNL), Singapore
+- Chen Wang, Nanyang Technological University, Singapore
 - Michael Wilkins, Cornelis Networks, USA
 - Zhen Xie, State University of New York at Binghamton, USA
 - Xiaodong Yu, Stevens Institute of Technology, Argonne National Laboratory (ANL), USA
@@ -313,7 +313,7 @@
 - Weiwen Jiang, George Mason University, USA
 - Zhiding Liang, The Chinese University of Hong Kong, Hong Kong
 - Ying Mao, Fordham University, USA
-- Samah Mohamed Ahmed Saeed, City College of New York, City University of New York, USA
+- Samah Mohamed Saeed, City College of New York, City University of New York, USA
 - Samuel Stein, Pacific Northwest National Laboratory, USA
 - Yasunari Suzuki, RIKEN, Japan
 - Anbang Wu, Shanghai Jiao Tong University, China
