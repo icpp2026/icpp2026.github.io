@@ -53,8 +53,8 @@ Tutorial abstracts and agendas, and links to each workshop's own website, are on
 | 13:40–14:40 | [Keynote 2](keynote-speakers.md#ultra-ethernet-for-next-generation-ai-and-hpc-workloads): **Torsten Hoefler**, ETH Zurich<br>*Ultra Ethernet for Next-Generation AI and HPC Workloads* · AUD302 |
 | 14:40–15:10 | Tea Break |
 | 15:10–16:50 | [**2A** — LLM Inference and Serving I](#session-2a) · AUD302<br>[**2B** — Processing-in-Memory](#session-2b) · LT301<br>[**2C** — Numerical Computing](#session-2c) · LT701<br>[**2D** — Graph Algorithms](#session-2d) · LT702 |
-| 17:00–18:00 | **Posters and Demonstrations** |
-| 18:00–20:00 | **Reception** |
+| 17:00–18:00 | **[Posters](call-for-posters.md) and [Demonstrations](call-for-demos.md)** |
+| 18:00–20:00 | **[Reception](social-special-events.md#conference-reception)** |
 
 </div>
 
@@ -73,7 +73,7 @@ Tutorial abstracts and agendas, and links to each workshop's own website, are on
 | 13:40–14:40 | [Keynote 4](keynote-speakers.md#parallel-computing-on-ultra-low-power-chips): **Li-Shiuan Peh**, National University of Singapore<br>*Parallel Computing on Ultra-Low-Power Chips* · AUD302 |
 | 14:40–15:10 | Tea Break |
 | 15:10–16:50 | [**4A** — LLM Inference and Serving III](#session-4a) · AUD302<br>[**4B** — Storage Systems](#session-4b) · LT301<br>[**4C** — Sparse Linear Algebra I](#session-4c) · LT701<br>[**4D** — Performance Analysis and Modeling I](#session-4d) · LT702 |
-| 18:00–21:00 | **Banquet** |
+| 18:30–21:00 | [**Banquet**](social-special-events.md#conference-banquet) — The Ballroom @ Mount Faber Peak<br>*Shuttle buses depart NTU@one-north at 17:15* |
 
 </div>
 
