@@ -59,7 +59,7 @@ The campus is less than a 10-minute walk from Buona Vista MRT station, nearby ho
 !!! info "Wi-Fi at the venue"
     Three wireless networks are available at NTU@one-north:
 
-    - **Eduroam** — recommended for most attendees. Sign in with your home institution's credentials.
+    - **Eduroam**
     - **Guest Wi-Fi** — [register here](https://www3.ntu.edu.sg/cits2/wireless/smsguide/smsguide.htm){:target="_blank"}. A **Singapore-registered mobile number** is required.
     - **NTU Secure** — NTU staff and students only.
 
