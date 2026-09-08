@@ -56,6 +56,13 @@ ICPP 2026 will be held at **NTU@one-north**, Nanyang Technological University's 
 
 The campus is less than a 10-minute walk from Buona Vista MRT station, nearby hotels, and the Star Vista shopping centre. It takes about one hour to reach by MRT from Changi Airport or around 30 minutes by car, depending on traffic. A taxi from Changi Airport typically costs **S$30-S$50**.
 
-Free Wi-Fi will be available to conference participants. Registration is on level 3, and auditorium and lecture-theatre assignments are listed in the [conference program](schedule.md). Floor plans for levels 3 and 7 are included in the [venue navigation guide](travel.md#at-ntuone-north-navigating-the-venue). Registration-desk hours will be published closer to the conference.
+!!! info "Wi-Fi at the venue"
+    Three wireless networks are available at NTU@one-north:
+
+    - **Eduroam** — recommended for most attendees. Sign in with your home institution's credentials.
+    - **Guest Wi-Fi** — [register here](https://www3.ntu.edu.sg/cits2/wireless/smsguide/smsguide.htm){:target="_blank"}. A **Singapore-registered mobile number** is required, so this option is not available to most overseas visitors.
+    - **NTU Secure** — NTU staff and students only.
+
+Registration is on level 3, and auditorium and lecture-theatre assignments are listed in the [conference program](schedule.md). Floor plans for levels 3 and 7 are included in the [venue navigation guide](travel.md#at-ntuone-north-navigating-the-venue). Registration-desk hours will be published closer to the conference.
 
 For detailed MRT, airport, and on-campus directions, see [Travel (How to Get There)](travel.md).
