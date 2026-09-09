@@ -5,6 +5,8 @@
 ICPP 2026 takes place **September 28 - October 1, 2026**. Workshops and tutorials are held on
 Monday, September 28; the main conference runs Tuesday, September 29 through Thursday, October 1.
 
+The program features **117 full papers, 8 posters, 4 demonstrations, 13 workshop papers, and 2 tutorials**.
+
 Sessions are held at NTU@one-north on levels 3 and 7. Room codes below refer to Auditorium 302 (AUD302),
 Lecture Theatres 301/701/702 (LT301, LT701, LT702) and Seminar Rooms 703/706 (SR703, SR706); see the
 [floor plans](travel.md#at-ntuone-north-navigating-the-venue) for how to find them.

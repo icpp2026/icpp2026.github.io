@@ -35,6 +35,7 @@ extra:
   generator: false
 nav:
   - Home: index.md
+  - Welcome: chairs-message.md
   - Committees:
     - Organizing Committee: organizing-committee.md
     - Program Committee: program-committee.md
