@@ -57,14 +57,14 @@ NTU@one-north is **less than a 10-minute walk** from Buona Vista MRT station, ne
 
 ICPP 2026 uses two floors of the building, both served by **lift lobby 2**:
 
-- **Level 3** — Registration and reception, with **Auditorium 302** and **Lecture Theatre 301** for the plenary and keynote sessions. Enter through the Alumni House entrance.
-- **Level 7** — **Lecture Theatres 701 and 702** and **Seminar Rooms 703, 704, 706, and 706A** for the parallel technical, workshop, and breakout sessions.
+- **Level 3** — **Main conference registration** (Tue 29 Sep – Thu 1 Oct), outside the Function Hall, and reception, with **Auditorium 302** and **Lecture Theatre 301** for the plenary and keynote sessions. Enter through the Alumni House entrance.
+- **Level 7** — **Workshop and tutorial registration** (Mon 28 Sep), with **Lecture Theatres 701 and 702** and **Seminar Rooms 703, 704, 706, and 706A** for the parallel technical, workshop, and breakout sessions.
 
 [![NTU@one-north level 3 floor plan](assets/imgs/venue_maps_L3.jpg){ style="width:100%;max-width:760px;display:block;margin:1.25rem auto 0.25rem;border:1px solid rgba(0,0,0,0.12);border-radius:6px" }](assets/imgs/venue_maps_L3.jpg){:target="_blank"}
-<p style="text-align:center;font-size:0.85rem;color:#888;margin:0 0 1.5rem;">Level 3 floor plan — registration, Auditorium 302, and Lecture Theatre 301 (tap to enlarge).</p>
+<p style="text-align:center;font-size:0.85rem;color:#888;margin:0 0 1.5rem;">Level 3 floor plan — main conference registration (outside the Function Hall), Auditorium 302, and Lecture Theatre 301 (tap to enlarge).</p>
 
 [![NTU@one-north level 7 floor plan](assets/imgs/venue_maps_L7.jpg){ style="width:100%;max-width:760px;display:block;margin:0 auto 0.25rem;border:1px solid rgba(0,0,0,0.12);border-radius:6px" }](assets/imgs/venue_maps_L7.jpg){:target="_blank"}
-<p style="text-align:center;font-size:0.85rem;color:#888;margin:0;">Level 7 floor plan — Lecture Theatres 701/702 and Seminar Rooms 703/704/706/706A (tap to enlarge).</p>
+<p style="text-align:center;font-size:0.85rem;color:#888;margin:0;">Level 7 floor plan — workshop registration, Lecture Theatres 701/702 and Seminar Rooms 703/704/706/706A (tap to enlarge).</p>
 
 !!! note "Room assignments"
     The room for every session is listed in the [conference program](schedule.md), and registration staff can point you in the right direction after you check in. See the [Venue](venue.md) page for more about the campus.

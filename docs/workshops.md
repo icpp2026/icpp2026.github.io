@@ -1,6 +1,6 @@
 # Workshops and Tutorials
 
-ICPP 2026 will host co-located workshops and tutorials on the first day of the conference, **September 28, 2026**.
+ICPP 2026 will host co-located workshops and tutorials on the first day of the conference, **September 28, 2026**. Workshop and tutorial registration is on **level 7** of NTU@one-north (main conference registration on Tue–Thu is on level 3).
 
 ## Workshops
 

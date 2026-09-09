@@ -63,6 +63,6 @@ The campus is less than a 10-minute walk from Buona Vista MRT station, nearby ho
     - **Guest Wi-Fi** — [register here](https://www3.ntu.edu.sg/cits2/wireless/smsguide/smsguide.htm){:target="_blank"}. A **Singapore-registered mobile number** is required.
     - **NTU Secure** — NTU staff and students only.
 
-Registration is on level 3, and auditorium and lecture-theatre assignments are listed in the [conference program](schedule.md). Floor plans for levels 3 and 7 are included in the [venue navigation guide](travel.md#at-ntuone-north-navigating-the-venue). Registration-desk hours will be published closer to the conference.
+Registration for the workshops and tutorials (Mon 28 Sep) is on **level 7**; main conference registration (Tue 29 Sep – Thu 1 Oct) is on **level 3, outside the Function Hall**. Auditorium and lecture-theatre assignments are listed in the [conference program](schedule.md). Floor plans for levels 3 and 7 are included in the [venue navigation guide](travel.md#at-ntuone-north-navigating-the-venue). Registration-desk hours will be published closer to the conference.
 
 For detailed MRT, airport, and on-campus directions, see [Travel (How to Get There)](travel.md).
