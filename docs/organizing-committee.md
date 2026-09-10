@@ -66,7 +66,7 @@
 
 - [Jiong He](https://hejiong.me/){:target="\_blank"}, National University of Singapore, Singapore
 
-## Sponsor Co-Chairs
+## Sponsor Chair
 
 - [Tao Luo](https://research.a-star.edu.sg/researcher/tao-luo/){:target="\_blank"}, A\*STAR Institute of Advanced Intelligence and Computing, Singapore
 

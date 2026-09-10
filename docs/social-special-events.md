@@ -2,7 +2,7 @@
 
 ## Conference Reception
 
-The ICPP 2026 reception is scheduled for **Tuesday, 29 September 2026, from 6:00 pm to 8:00 pm**. The reception location will be announced after it is confirmed by the organizing committee.
+The ICPP 2026 reception is scheduled for **Tuesday, 29 September 2026, from 6:00 pm to 8:00 pm**. It is held at the **Function Hall, level 3, NTU@one-north**.
 
 ----
 

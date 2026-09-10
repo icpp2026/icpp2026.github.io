@@ -27,11 +27,11 @@ Lecture Theatres 301/701/702 (LT301, LT701, LT702) and Seminar Rooms 703/706 (SR
 | Time | Program |
 | :--- | :--- |
 | 9:00–10:30 | **Morning Session 1**<br>[The First International Workshop on State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC)](workshops.md) · LT701<br>[SUSTAIN-HPC 2026 – Workshop on Sustainable Computing for High-Performance and Distributed Systems](workshops.md) · LT702<br>[Workshop on Benchmarking in the Data Center (BID)](workshops.md) · SR703<br>[Tutorial: Accelerating AI and HPC Workflows with AMD ROCm AI and Modern GPU Clusters](workshops.md#tutorials) · SR706 |
-| 10:30–11:00 | Tea Break |
+| 10:30–11:00 | Tea Break · Function Hall (Level 3) |
 | 11:00–12:30 | **Morning Session 2**<br>[The First International Workshop on State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC)](workshops.md) · LT701<br>[SUSTAIN-HPC 2026 – Workshop on Sustainable Computing for High-Performance and Distributed Systems](workshops.md) · LT702<br>[Workshop on Benchmarking in the Data Center (BID)](workshops.md) · SR703<br>[Tutorial: Accelerating AI and HPC Workflows with AMD ROCm AI and Modern GPU Clusters](workshops.md#tutorials) · SR706 |
-| 12:30–13:30 | Lunch |
+| 12:30–13:30 | Lunch · Function Hall (Level 3) |
 | 13:30–15:00 | **Afternoon Session 1**<br>[The First International Workshop on State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC)](workshops.md) · LT701<br>[Workshop on Agentic AI in Real-World Systems: Infrastructure, Algorithms, and Deployment](workshops.md) · LT702<br>[International Workshop on Data Compression for AI and Big Data Applications (DC4AI)](workshops.md) · SR703<br>[Tutorial: Coyote V2: An Open-Source FPGA Shell for Modern Distributed Data Processing](workshops.md#tutorials) · SR706 |
-| 15:00–15:30 | Tea Break |
+| 15:00–15:30 | Tea Break · Function Hall (Level 3) |
 | 15:30–17:00 | **Afternoon Session 2**<br>[The First International Workshop on State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC)](workshops.md) · LT701<br>[Workshop on Agentic AI in Real-World Systems: Infrastructure, Algorithms, and Deployment](workshops.md) · LT702<br>[International Workshop on Data Compression for AI and Big Data Applications (DC4AI)](workshops.md) · SR703<br>[Tutorial: Coyote V2: An Open-Source FPGA Shell for Modern Distributed Data Processing](workshops.md#tutorials) · SR706 |
 
 </div>
@@ -47,16 +47,16 @@ Tutorial abstracts and agendas, and links to each workshop's own website, are on
 
 | Time | Program |
 | :--- | :--- |
-| 8:45–9:00 | **Opening** |
+| 8:45–9:00 | **Opening** · AUD302 |
 | 9:00–10:00 | [Keynote 1](keynote-speakers.md#from-scalable-computing-to-the-scaling-law-a-reexamination-of-parallel-processing): **Xian-He Sun**, Illinois Institute of Technology<br>*From Scalable Computing to the Scaling Law: A Reexamination of Parallel Processing* · AUD302 |
-| 10:00–10:30 | Tea Break |
+| 10:00–10:30 | Tea Break · Function Hall (Level 3) |
 | 10:30–12:10 | [**1A** — MoE Systems](#session-1a) · AUD302<br>[**1B** — Disaggregated Memory](#session-1b) · LT301<br>[**1C** — Scientific Computing I](#session-1c) · LT701<br>[**1D** — Compiler Optimization](#session-1d) · LT702 |
-| 12:10–13:40 | Lunch |
+| 12:10–13:40 | Lunch · Function Hall (Level 3) |
 | 13:40–14:40 | [Keynote 2](keynote-speakers.md#ultra-ethernet-for-next-generation-ai-and-hpc-workloads): **Torsten Hoefler**, ETH Zurich<br>*Ultra Ethernet for Next-Generation AI and HPC Workloads* · AUD302 |
-| 14:40–15:10 | Tea Break |
+| 14:40–15:10 | Tea Break · Function Hall (Level 3) |
 | 15:10–16:50 | [**2A** — LLM Inference and Serving I](#session-2a) · AUD302<br>[**2B** — Processing-in-Memory](#session-2b) · LT301<br>[**2C** — Numerical Computing](#session-2c) · LT701<br>[**2D** — Graph Algorithms](#session-2d) · LT702 |
-| 17:00–18:00 | **[Posters](call-for-posters.md) and [Demonstrations](call-for-demos.md)** |
-| 18:00–20:00 | **[Reception](social-special-events.md#conference-reception)** |
+| 17:00–18:00 | **[Posters](call-for-posters.md) and [Demonstrations](call-for-demos.md)** · Function Hall (Level 3) |
+| 18:00–20:00 | **[Reception](social-special-events.md#conference-reception)** · Function Hall (Level 3) |
 
 </div>
 
@@ -69,13 +69,15 @@ Tutorial abstracts and agendas, and links to each workshop's own website, are on
 | Time | Program |
 | :--- | :--- |
 | 9:00–10:00 | [Keynote 3](keynote-speakers.md#efficient-llm-serving-via-compression-centric-optimizations): **Xiaowen Chu**, The Hong Kong University of Science and Technology (Guangzhou)<br>*Efficient LLM Serving via Compression-Centric Optimizations* · AUD302 |
-| 10:00–10:30 | Tea Break |
+| 10:00–10:30 | Tea Break · Function Hall (Level 3) |
 | 10:30–12:10 | [**3A** — LLM Inference and Serving II](#session-3a) · AUD302<br>[**3B** — Key-Value Stores](#session-3b) · LT301<br>[**3C** — Hardware Acceleration](#session-3c) · LT701<br>[**3D** — Graph Learning](#session-3d) · LT702 |
-| 12:10–13:40 | Lunch |
+| 12:10–13:40 | Lunch · Function Hall (Level 3) |
 | 13:40–14:40 | [Keynote 4](keynote-speakers.md#parallel-computing-on-ultra-low-power-chips): **Li-Shiuan Peh**, National University of Singapore<br>*Parallel Computing on Ultra-Low-Power Chips* · AUD302 |
-| 14:40–15:10 | Tea Break |
+| 14:40–15:10 | Tea Break · Function Hall (Level 3) |
 | 15:10–16:50 | [**4A** — LLM Inference and Serving III](#session-4a) · AUD302<br>[**4B** — Storage Systems](#session-4b) · LT301<br>[**4C** — Sparse Linear Algebra I](#session-4c) · LT701<br>[**4D** — Performance Analysis and Modeling I](#session-4d) · LT702 |
-| 18:30–21:00 | [**Banquet**](social-special-events.md#conference-banquet) — The Ballroom @ Mount Faber Peak<br>*Shuttle buses depart NTU@one-north at 17:15* |
+| 17:15 | Shuttle from NTU@one-north to Banquet |
+| 18:30–21:00 | [**Banquet**](social-special-events.md#conference-banquet) — The Ballroom @ Mount Faber Peak |
+| 21:00 | Shuttle from Mount Faber Peak to [Park Avenue Rochester](accommodation.md) |
 
 </div>
 
@@ -88,12 +90,13 @@ Tutorial abstracts and agendas, and links to each workshop's own website, are on
 | Time | Program |
 | :--- | :--- |
 | 9:00–10:15 | [**5A** — Memory Management](#session-5a) · AUD302<br>[**5B** — AI Acceleration](#session-5b) · LT301<br>[**5C** — Serverless Computing](#session-5c) · LT701<br>[**5D** — Parallel Data Processing](#session-5d) · LT702 |
-| 10:15–10:45 | Tea Break |
+| 10:15–10:45 | Tea Break · Function Hall (Level 3) |
 | 10:45–12:00 | [**6A** — AI Caching](#session-6a) · AUD302<br>[**6B** — Learning-Based Scheduling](#session-6b) · LT301<br>[**6C** — Network Algorithms](#session-6c) · LT701<br>[**6D** — Performance Analysis and Modeling II](#session-6d) · LT702 |
-| 12:00–13:00 | Lunch |
+| 12:00–13:00 | Lunch · Function Hall (Level 3) |
 | 13:00–14:40 | [**7A** — Sparse Linear Algebra II](#session-7a) · AUD302<br>[**7B** — Data-Center Networks](#session-7b) · LT301<br>[**7C** — Distributed Learning](#session-7c) · LT701<br>[**7D** — Parallel Training](#session-7d) · LT702 |
-| 14:40–15:10 | Tea Break |
+| 14:40–15:10 | Tea Break · Function Hall (Level 3) |
 | 15:10–16:50 | [**8A** — GEMM Optimization](#session-8a) · AUD302<br>[**8B** — Cloud Scheduling](#session-8b) · LT301<br>[**8C** — Federated Learning](#session-8c) · LT701<br>[**8D** — Scientific Computing II](#session-8d) · LT702 |
+| 16:50 | Conference closes |
 
 </div>
 
