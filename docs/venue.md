@@ -61,7 +61,14 @@ The campus is less than a 10-minute walk from Buona Vista MRT station, nearby ho
 
     - **Eduroam**
     - **Guest Wi-Fi** — [register here](https://www3.ntu.edu.sg/cits2/wireless/smsguide/smsguide.htm){:target="_blank"}. A **Singapore-registered mobile number** is required.
-    - **NTU Secure** — NTU staff and students only.
+    - **NTUSECURE** — for attendees without a Singapore-registered mobile number, use one of the shared conference logins below.
+
+    Shared logins for **NTUSECURE**:
+
+    | Login | ID | Password |
+    | --- | --- | --- |
+    | Access 1 | `onec023` | `onecuser023` |
+    | Access 2 | `onec024` | `onecuser024` |
 
 Registration for the workshops and tutorials (Mon 28 Sep) is on **level 7**; main conference registration (Tue 29 Sep – Thu 1 Oct) is on **level 3, outside the Function Hall**. Auditorium and lecture-theatre assignments are listed in the [conference program](schedule.md). Floor plans for levels 3 and 7 are included in the [venue navigation guide](travel.md#at-ntuone-north-navigating-the-venue). Registration-desk hours will be published closer to the conference.
 
