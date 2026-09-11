@@ -14,6 +14,7 @@ hide:
 
 <div class="landingpage-buttons" style="text-align: center" markdown>
 [Register](registration.md){ .md-button }
+[Program](schedule.md){ .md-button }
 [Keynotes](keynote-speakers.md){ .md-button }
 [Venue &amp; Travel](venue.md){ .md-button }
 </div>
@@ -22,6 +23,20 @@ hide:
 <h2>News</h2>
 
 - **[Registration for ICPP 2026 is now open.](registration.md)** Early-bird rates apply until 18 August 2026.
+
+</div>
+
+<div markdown>
+<h2>Program at a Glance</h2>
+
+| Day | Highlights |
+| :--- | :--- |
+| [**Mon, 28 Sep**](schedule.md#day-0) — Workshops & Tutorials | 5 workshops and 2 tutorials |
+| [**Tue, 29 Sep**](schedule.md#day-1) — Main Conference Day 1 | Opening · Keynotes 1–2 · Sessions 1A–2D · Posters & Demos · Reception |
+| [**Wed, 30 Sep**](schedule.md#day-2) — Main Conference Day 2 | Keynotes 3–4 · Sessions 3A–4D · Banquet |
+| [**Thu, 1 Oct**](schedule.md#day-3) — Main Conference Day 3 | Sessions 5A–8D |
+
+[See the full program](schedule.md)
 
 </div>
 
