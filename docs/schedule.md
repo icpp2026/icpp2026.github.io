@@ -27,11 +27,11 @@ Lecture Theatres 301/701/702 (LT301, LT701, LT702) and Seminar Rooms 703/706 (SR
 | Time | Program |
 | :--- | :--- |
 | 9:00–10:30 | **Morning Session 1**<br>[The First International Workshop on State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC)](workshops.md) · LT701<br>[SUSTAIN-HPC 2026 – Workshop on Sustainable Computing for High-Performance and Distributed Systems](workshops.md) · LT702<br>[Workshop on Benchmarking in the Data Center (BID)](workshops.md) · SR703<br>[Tutorial: Accelerating AI and HPC Workflows with AMD ROCm AI and Modern GPU Clusters](workshops.md#tutorials) · SR706 |
-| 10:30–11:00 | Tea Break · Function Hall (Level 3) |
+| 10:30–11:00 | Tea Break · Level 7 |
 | 11:00–12:30 | **Morning Session 2**<br>[The First International Workshop on State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC)](workshops.md) · LT701<br>[SUSTAIN-HPC 2026 – Workshop on Sustainable Computing for High-Performance and Distributed Systems](workshops.md) · LT702<br>[Workshop on Benchmarking in the Data Center (BID)](workshops.md) · SR703<br>[Tutorial: Accelerating AI and HPC Workflows with AMD ROCm AI and Modern GPU Clusters](workshops.md#tutorials) · SR706 |
-| 12:30–13:30 | Lunch · Function Hall (Level 3) |
+| 12:30–13:30 | Lunch · Level 7 |
 | 13:30–15:00 | **Afternoon Session 1**<br>[The First International Workshop on State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC)](workshops.md) · LT701<br>[Workshop on Agentic AI in Real-World Systems: Infrastructure, Algorithms, and Deployment](workshops.md) · LT702<br>[International Workshop on Data Compression for AI and Big Data Applications (DC4AI)](workshops.md) · SR703<br>[Tutorial: Coyote V2: An Open-Source FPGA Shell for Modern Distributed Data Processing](workshops.md#tutorials) · SR706 |
-| 15:00–15:30 | Tea Break · Function Hall (Level 3) |
+| 15:00–15:30 | Tea Break · Level 7 |
 | 15:30–17:00 | **Afternoon Session 2**<br>[The First International Workshop on State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC)](workshops.md) · LT701<br>[Workshop on Agentic AI in Real-World Systems: Infrastructure, Algorithms, and Deployment](workshops.md) · LT702<br>[International Workshop on Data Compression for AI and Big Data Applications (DC4AI)](workshops.md) · SR703<br>[Tutorial: Coyote V2: An Open-Source FPGA Shell for Modern Distributed Data Processing](workshops.md#tutorials) · SR706 |
 
 </div>
