@@ -168,8 +168,8 @@ Tuesday, September 29 · 15:10 – 16:50 · Venue: AUD302
 
 1. **RPSC: Robust LLM Scheduling by Tolerating Prediction Inaccuracy and Mitigating Tail Latency**  
    Guosheng Xiao, Xuan Mo, Jialun Li, Weigang Wu
-2. **CrossServe: Cross-Layer Scheduling for SLO Optimization in Multi-Tenant LLM Serving**  
-   Jiahe Li, Jiabin Li
+2. **S2PAR: Scalable Surface Code Ancilla Routing Card for Distributed Fault-Tolerant Quantum Computing**  
+   Samuel Stein, Shuwen Kan, Charles Guinn, Esin Tureci, Guus Avis, Chenxu Liu, Zefan Du, Margaret Martonosi, Stefan Krastanov, Ying Mao, Andrew A. Houck, Ang Li
 3. **WAQ-LLM: Optimizing Multi-Instance LLM Deployment via Workload-Aware Queueing Model**  
    Jiaxin Lai, Yizhou Luo, Qiang Wang
 4. **Heterogeneous SLO Guaranteed Multi-Resource-Aware Batching in LLM Serving**  
@@ -400,8 +400,8 @@ Thursday, October 1 · 10:45 – 12:00 · Venue: LT701
    Jiangnan Luo, Zhebei Shen, Yuan Zhang, Sheng Zhong
 2. **Asynchronous Dispersion with Optimal Time Complexity**  
    Debasish Pattanayak, Ajay D. Kshemkalyani, Manish Kumar, Anisur Rahaman Molla, Gokarna Sharma
-3. **S2PAR: Scalable Surface Code Ancilla Routing Card for Distributed Fault-Tolerant Quantum Computing**  
-   Samuel Stein, Shuwen Kan, Charles Guinn, Esin Tureci, Guus Avis, Chenxu Liu, Zefan Du, Margaret Martonosi, Stefan Krastanov, Ying Mao, Andrew A. Houck, Ang Li
+3. **CrossServe: Cross-Layer Scheduling for SLO Optimization in Multi-Tenant LLM Serving**  
+   Jiahe Li, Jiabin Li
 
 ### Session 6D — Performance Analysis and Modeling II { #session-6d }
 
